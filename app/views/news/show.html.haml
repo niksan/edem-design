@@ -1,0 +1,6 @@
+%h1
+  != @news.title
+%span.date
+  = l @news.date, :format => :for_news
+!= @news.body
+.clear

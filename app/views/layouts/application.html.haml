@@ -1,0 +1,138 @@
+!!! Strict
+%html
+  %head
+    %title
+      = page_title
+    %meta{ :content => 'text/html; charset=UTF-8', :'http-equiv' => 'Content-Type' }
+    = stylesheet_link_tag 'application'
+    = javascript_include_tag 'application'
+    = csrf_meta_tags
+  %body
+    = gflash
+    = gritter_flash_messages
+    #wrapper
+      #header
+        = link_to (image_tag 'header/logo.jpg', :alt => 'Ландшафтная студия - Эдем'), root_path, :id => 'logo'
+        #icons
+          = link_to image_tag('header/mail_icon.gif', :alt => 'Контакты'), article_permalink(21, 'second_menu'), :class => 'contacts'
+          = link_to image_tag('header/map_icon.gif', :alt => 'Карта сайта'), '', :class => 'sitemap'
+          = link_to image_tag('header/fav_icon.gif', :alt => 'В избранное'), '', :class => 'favorite'
+        #contacts<
+          %span.phone<
+            +7(4732)920-076
+          г. Воронеж, ул. Хользунова, 4, оф. 1, этаж 4
+        #main_menu
+          = link_to 'О нашей студии', article_permalink(19, 'second_menu')
+          = link_to 'Портфолио', portfolio_index_path(:anchor => 'second_menu')
+          = link_to 'Прайс-лист', article_permalink(20, 'second_menu')
+          = link_to 'Партнеры', partners_path(:anchor => 'second_menu')
+          = link_to 'Отзывы', reviews_path(:anchor => 'second_menu')
+          = link_to 'Контакты', article_permalink(21, 'second_menu')
+      %object{ :data => asset_path('header.swf'), :height => '216', :id => 'header_flash', :type => 'application/x-shockwave-flash', :width => '1200' }
+        %param{ :name => 'movie', :value => asset_path('header.swf') }
+        %param{:name => 'wmode', :value => 'transparent'}
+        %param{ :name => 'quality', :value => 'high' }
+      #second_menu
+        .item
+          = image_tag 'header/second_menu/landshaftnoe_proektirovanie.gif', :alt => 'ландшафтное проектирование'
+          = link_to 'Ландшафтное проектирование', article_permalink(1, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/rasteniya.gif', :alt => 'растения'
+          = link_to 'Растения', article_permalink(2, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/vodoemi.gif', :alt => 'водоемы'
+          = link_to 'Водоемы', article_permalink(3, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/stilistika_sada.gif', :alt => 'стилистика сада'
+          = link_to 'Стилистика сада', article_permalink(4, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/posadka_krupnomerov.gif', :alt => 'посадка крупномеров'
+          = link_to 'Посадка крупномеров', article_permalink(5, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/uslugi_sadovnika.gif', :alt => 'услуги садовника'
+          = link_to 'Услуги садовника', article_permalink(6, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/mosheniya.gif', :alt => 'мощения'
+          = link_to 'Мощения', article_permalink(7, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/malie_arhitekturnie_formi.gif', :alt => 'малые архитектурные формы'
+          = link_to 'Малые архитектурные формы', article_permalink(8, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/avtomaticheskiy_poliv.gif', :alt => 'автоматический полив'
+          = link_to 'Автоматический полив', article_permalink(9, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/osveshenie.gif', :alt => 'освещение'
+          = link_to 'Освещение', article_permalink(10, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/vertikalnoe_ozelenenie.gif', :alt => 'вертикальное озеленение'
+          = link_to 'Вертикальное озеленение', article_permalink(11, 'second_menu')
+        .item
+          = image_tag 'header/second_menu/zimnie_sadi.gif', :alt => 'зимние сады'
+          = link_to 'Зимние сады', article_permalink(12, 'second_menu')
+        .clear
+      #middle_part
+        #content
+          = yield
+        #sidebar
+          #special_offer
+            %span.header
+              Специальные предложения:
+            - @special_offers.each do |special|
+              .item
+                = image_tag special.special_image.url(:thumb), :alt => special.name
+                = link_to special.name, article_path(special.article, anchor:'second_menu')
+              .clear
+          #message_form
+            %span.header
+              Отправить заявку:
+            = form_for :message, :url => { :controller => 'messages', :action => 'create' }, :remote => true, class:'form-vertical' do |f|
+              %fieldset
+                .control-group
+                  = f.label :name, 'Ваше имя', class:'form-horizontal'
+                  .controls
+                    = f.text_field :name
+                .control-group
+                  = f.label :phone, 'Телефон', class:'form-horizontal'
+                  .controls
+                    = f.text_field :phone
+                .control-group
+                  = f.label :email, 'Электронная почта', class:'form-horizontal'
+                  .controls
+                    = f.text_field :email
+                .control-group
+                  = f.label :body, 'Сообщение', class:'form-horizontal'
+                  .controls
+                    = f.text_area :body
+                = f.submit 'Отправить', :class => 'btn btn-success'
+
+        .clear
+        #news
+          = link_to 'Новости:', news_index_path, :class => 'header'
+          #news_left
+          #news_list
+            - @last_news.each do |news|
+              .news
+                %span.date
+                  = l news.date, :format => :for_news
+                - if news.portfolio.nil?
+                  = link_to news.title, news_path(news, :anchor => 'second_menu')
+                - else
+                  = link_to news.title, portfolio_path(news.portfolio, :anchor => 'second_menu')
+          #news_right
+          .clear
+        #footer
+          .contacts
+            %span.phone
+              +7(4732)920-076
+            %span.address
+              г. Воронеж, ул. Хользунова, 4, оф. 1, этаж 4
+            = link_to raw('схема проезда &rarr;'), Article.find(21)
+    // Yandex.Metrika counter
+    %div{ :style => 'display:none;' }
+      %script{ :type => 'text/javascript' }
+        (function(w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter11099437 = new Ya.Metrika({id:11099437, enableAll: true}); } catch(e) { } }); })(window, "yandex_metrika_callbacks");
+      %script{ :src => '//mc.yandex.ru/metrika/watch.js', :type => 'text/javascript', :defer => 'defer' }
+      %noscript
+        %div
+          %img{ :src => '//mc.yandex.ru/watch/11099437', :style => 'position:absolute; left:-9999px;', :alt => '' }
+    // /Yandex.Metrika counter

@@ -1,0 +1,8 @@
+%h1
+  Новости
+%ul.news_list
+  - @news.each do |news|  
+    %li
+      %span
+        = l news.date, :format => :for_news
+      = link_to news.title, news_path(news)

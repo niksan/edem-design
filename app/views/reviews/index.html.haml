@@ -1,0 +1,32 @@
+%h1 Отзывы
+#reviews
+  %ul
+    - @reviews.each do |review|
+      %li
+        %span.name
+          = review.name
+          = l review.created_at, :format => :for_news
+        = review.body
+  = form_for :review, :remote => true, :html => { :id => 'review_form' } do |f|
+    .control-group
+      = f.label :name, 'Имя: ', class:'control-label'
+      .controls
+        = f.text_field :name
+    .control-group
+      = f.label :email, 'E-mail: ', class:'control-label'
+      .controls
+        = f.text_field :email
+    .control-group
+      = f.label :phone, 'Телефон: ', class:'control-label'
+      .controls
+        = f.text_field :phone
+    .control-group
+      = f.label :theme, 'Тема: ', class:'control-label'
+      .controls
+        = f.text_field :theme
+    .control-group
+      = f.label :body, 'Текст сообщения: ', class:'control-label'
+      .controls
+        = f.text_area :body
+    .form-actions
+      = f.submit 'Добавить отзыв', :class => 'btn btn-primary'

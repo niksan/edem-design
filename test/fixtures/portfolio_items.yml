@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  portfolio_id: 1
+  portfolio_item_image_file_name: MyString
+  portfolio_item_image_content_type: MyString
+  portfolio_item_image_file_size: 1
+  portfolio_item_image_updated_at: 2011-11-02 21:40:31
+
+two:
+  title: MyString
+  portfolio_id: 1
+  portfolio_item_image_file_name: MyString
+  portfolio_item_image_content_type: MyString
+  portfolio_item_image_file_size: 1
+  portfolio_item_image_updated_at: 2011-11-02 21:40:31
