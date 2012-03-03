@@ -16,6 +16,7 @@ after "deploy:update_code", :remove_links, :set_links
 
 task :remove_links, roles => :app do
   run "rm -rf #{release_path}/tmp"
+  run "rm -rf #{release_path}/public/system" #remove this if use gem paperclip
 end
 
 task :set_links, roles => :app do
@@ -23,6 +24,7 @@ task :set_links, roles => :app do
     '/assets' => '/public/assets',
     '/ckeditor_assets' => '/public/ckeditor_assets',
     '/config/database.yml' => '/config/database.yml',
+    '/uploads' => '/public/uploads'
   } # shared_path => release_path
   links.each do |from, destination|
     run "rm -rf #{release_path}#{destination}"
@@ -38,7 +40,7 @@ set :unicorn_conf, "/etc/unicorn/edem-design.niksan.rb"
 set :unicorn_pid, "/var/run/unicorn/edem-design.niksan.pid"
 
 
-set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3-p125; bundle install --path ../../shared/gems; bundle exec unicorn_rails -Dc #{unicorn_conf})"
+set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3 do bundle exec unicorn_rails -Dc #{unicorn_conf})"
 
 # - for unicorn - #
 namespace :deploy do
