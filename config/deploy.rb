@@ -6,6 +6,7 @@ set :repository,  "git://github.com/niksan/edem-design.git"
 set :user, "hosting_niksan"
 set :use_sudo, false
 set :deploy_to, "/home/hosting_niksan/projects/edem-design"
+set :keep_releases, 3 #store releases
 
 
 role :web, "lithium.locum.ru"   # Your HTTP server, Apache/etc
