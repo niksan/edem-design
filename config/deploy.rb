@@ -34,7 +34,7 @@ set :unicorn_pid, "/var/run/unicorn/edem-design.niksan.pid"
 
 
 
-  set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3 do bundle exec unicorn_rails -Dc #{unicorn_conf})"
+  set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3-p125 do bundle exec unicorn_rails -Dc #{unicorn_conf})"
 
 
 

@@ -31,23 +31,22 @@ test:
   password:
   socket: /var/run/mysqld/mysqld.sock
 
-production:
-  adapter: mysql2
-  encoding: utf8
-  reconnect: false
-  database: edem-design_development
-  pool: 5
-  username: root
-  password:
-  socket: /var/run/mysqld/mysqld.sock
-
 #production:
 #  adapter: mysql2
 #  encoding: utf8
 #  reconnect: false
-#  database: niksan_edem-de37
+#  database: edem-design_development
 #  pool: 5
-#  username: niksan_edem-de37
-#  password: iOLgYyzo
+#  username: root
+#  password:
 #  socket: /var/run/mysqld/mysqld.sock
-#  host: mysql0.locum.ru
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: niksan_edem-de37
+  pool: 5
+  username: niksan_edem-de37
+  password: iOLgYyzo
+  host: mysql0.locum.ru
