@@ -1,8 +1,6 @@
-# У вас должна быть настроена авторизация ssh по сертификатам
 
 set :application, "edem-design"
 
-# настройка системы контроля версий и репозитария, по умолчанию - git, если используется иная система версий, нужно изменить значение scm
 set :scm, :git
 set :repository,  "git://github.com/niksan/edem-design.git"
 
@@ -15,13 +13,6 @@ role :web, "lithium.locum.ru"   # Your HTTP server, Apache/etc
 role :app, "lithium.locum.ru"   # This may be the same as your `Web` server
 role :db,  "lithium.locum.ru", :primary => true # This is where Rails migrations will run
 
-# эта секция для того, чтобы вы не хранили доступ к базе в системе контроля версий. Поместите dayabase.yml в shared,
-# чтобы он копировался в нужный путь при каждом выкладывании новой версии кода
-# так лучше с точки зрения безопасности, но если не хотите - прсото закомментируйте этот таск
-
-
-# Если хотите поместить конфиг в shared и не хранить его в системе контроя версий - раскомментируйте следующие строки
-
 #after "deploy:update_code", :copy_database_config
 
 #task :copy_database_config, roles => :app do
@@ -33,10 +24,7 @@ set :unicorn_conf, "/etc/unicorn/edem-design.niksan.rb"
 set :unicorn_pid, "/var/run/unicorn/edem-design.niksan.pid"
 
 
-
-  set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3-p125 do bundle exec unicorn_rails -Dc #{unicorn_conf})"
-
-
+set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use 1.9.3-p125 do bundle exec unicorn_rails -Dc #{unicorn_conf})"
 
 # - for unicorn - #
 namespace :deploy do
