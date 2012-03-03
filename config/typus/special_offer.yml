@@ -1,8 +1,0 @@
-# Use the README file as a reference to customize settings.
-
-SpecialOffer:
-  fields:
-    default: name, special_image, article
-    form: name, special_image, article
-  relationships: 
-  application: Application

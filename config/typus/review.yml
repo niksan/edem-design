@@ -1,8 +1,0 @@
-# Use the README file as a reference to customize settings.
-
-Review:
-  fields:
-    default: name, email, phone, theme, body, approve
-    form: name, email, phone, theme, body, approve
-  relationships: 
-  application: Application

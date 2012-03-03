@@ -6,6 +6,8 @@
     %meta{ :content => 'text/html; charset=UTF-8', :'http-equiv' => 'Content-Type' }
     = stylesheet_link_tag 'application'
     = javascript_include_tag 'application'
+    = stylesheet_link_tag params[:controller]
+    = javascript_include_tag params[:controller]
     = csrf_meta_tags
   %body
     = gflash
