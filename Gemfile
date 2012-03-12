@@ -15,6 +15,8 @@ gem 'json'
 gem 'activeadmin'
 gem "meta_search", '>= 1.1.0.pre'
 gem 'yaml_db', :git => 'git://github.com/lostapathy/yaml_db.git'
+gem 'execjs'
+gem 'therubyracer'
 
 group :assets do
   gem 'bootstrap-sass'
