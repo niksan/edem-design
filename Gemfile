@@ -18,13 +18,13 @@ gem 'yaml_db', :git => 'git://github.com/lostapathy/yaml_db.git'
 gem 'execjs'
 gem 'therubyracer'
 
-group :assets do
+#group :assets do
   gem 'bootstrap-sass'
   gem 'sass-rails', "  ~> 3.2.3"
   gem 'compass-rails'
   gem 'coffee-rails', "~> 3.2.1"
   gem 'uglifier', '>= 1.0.3'
-end
+#end
 
 group :development do
   gem 'rails-erd'
