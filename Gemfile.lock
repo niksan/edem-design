@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/lostapathy/yaml_db.git
+  revision: 98e9a5dca43e3fedd3268c76a73af40d1bdf1dfd
+  specs:
+    yaml_db (0.2.2)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -258,3 +264,4 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
   unicorn
+  yaml_db!
