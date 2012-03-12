@@ -6,7 +6,7 @@ gem 'magic_encoding'
 gem 'mysql2'
 gem 'haml-rails'
 gem 'paperclip'
-#gem 'ckeditor'
+gem "ckeditor", "3.7.0.rc3"
 gem 'gritter_notices'
 gem 'permalink'
 gem 'awesome_nested_set'
