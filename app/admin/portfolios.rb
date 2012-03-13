@@ -11,9 +11,9 @@ ActiveAdmin.register Portfolio do
   end
 
   form do |f|
-    f.inputs "Details" do
-      f.input :name, label:'Название'
-      f.input :portfolio_image, label:'Изображение'
+    f.inputs "details" do
+      f.input :name, label:'название'
+      f.input :portfolio_image, label:'изображение'
     end
     f.buttons
   end

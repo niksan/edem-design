@@ -116,10 +116,7 @@
               .news
                 %span.date
                   = l news.date, :format => :for_news
-                - if news.portfolio.nil?
                   = link_to news.title, news_path(news, :anchor => 'second_menu')
-                - else
-                  = link_to news.title, portfolio_path(news.portfolio, :anchor => 'second_menu')
           #news_right
           .clear
         #footer
