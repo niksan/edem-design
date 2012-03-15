@@ -12,5 +12,7 @@ ActiveAdmin.register Article do
     column :created_at
     default_actions
   end
+
+  form :partial => "form"
   
 end
