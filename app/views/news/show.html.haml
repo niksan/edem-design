@@ -5,5 +5,5 @@
 %span.date
   = l @news.date, :format => :for_news
 != @news.body
-!= render 'portfolio/list', items: @news.portfolio.portfolio_items
+!= render 'portfolio/list', items: @news.portfolio.portfolio_items if @news.portfolio
 .clear
