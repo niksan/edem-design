@@ -1,0 +1,3 @@
+= link_to 'Портфолио', portfolio_index_path(:anchor => 'second_menu'), :class => 'parent_article'
+%h1= @portfolio.name
+= render 'list', items: @portfolio.portfolio_items

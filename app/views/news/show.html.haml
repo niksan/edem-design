@@ -1,0 +1,9 @@
+= stylesheet_link_tag 'portfolio'
+= javascript_include_tag 'portfolio'
+%h1
+  != @news.title
+%span.date
+  = l @news.date, :format => :for_news
+!= @news.body
+!= render 'portfolio/list', items: @news.portfolio.portfolio_items
+.clear

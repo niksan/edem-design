@@ -1,0 +1,7 @@
+%h1 Портфолио
+#portfolios
+  - @portfolios.each do |portfolio|
+    .item
+      = image_tag portfolio.portfolio_image.url(:thumb), :alt => portfolio.name
+      = link_to portfolio.name, portfolio_permalink(portfolio.id, 'second_menu')
+.clear

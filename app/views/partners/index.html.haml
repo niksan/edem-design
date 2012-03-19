@@ -1,0 +1,4 @@
+%h1 Партнеры
+#partners
+  - @partners.each do |partner|
+    = link_to image_tag(partner.partner_image.url(:thumb)), partner.url, :target => '_blank'

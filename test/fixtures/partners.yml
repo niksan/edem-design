@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  url: MyString
+  partner_image_file_name: MyString
+  partner_image_content_type: MyString
+  partner_image_file_size: 1
+  partner_image_updated_at: 2011-11-02 21:50:54
+
+two:
+  name: MyString
+  url: MyString
+  partner_image_file_name: MyString
+  partner_image_content_type: MyString
+  partner_image_file_size: 1
+  partner_image_updated_at: 2011-11-02 21:50:54
