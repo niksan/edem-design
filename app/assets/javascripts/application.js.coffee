@@ -25,6 +25,7 @@ jQuery.fn.gritterNotice = (title='Уведомление', text='что-то п�
     time: time
   })
 
+
 $(document).ready( ->
   $('#second_menu .item img').wrap('<div class="wrap" />')
   $('body').addActiveClassOnHover('#second_menu .item')
