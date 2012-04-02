@@ -21,14 +21,14 @@ admin_users:
     - $2a$10$X7zkFxppuzv0WBLs0aCy1u8ayoBvXIE9nCtA4tXGLrtrM7zHOGWza
     - 
     - 
-    - 
-    - 1
+    - 2012-03-28 08:46:30 Z
+    - 2
+    - 2012-03-28 08:46:30 Z
     - 2012-03-19 05:59:09 Z
-    - 2012-03-19 05:59:09 Z
-    - 127.0.0.1
+    - 213.129.118.178
     - 127.0.0.1
     - 2012-03-19 05:58:59 Z
-    - 2012-03-19 05:59:09 Z
+    - 2012-03-28 08:46:30 Z
 
 --- 
 articles: 
@@ -505,12 +505,20 @@ articles:
       \t<strong>+7(4732) 920-076</strong><br />\r\n\
       \t\xD0\xB3. \xD0\x92\xD0\xBE\xD1\x80\xD0\xBE\xD0\xBD\xD0\xB5\xD0\xB6, \xD1\x83\xD0\xBB. \xD0\xA5\xD0\xBE\xD0\xBB\xD1\x8C\xD0\xB7\xD1\x83\xD0\xBD\xD0\xBE\xD0\xB2\xD0\xB0, 4, \xD0\xBE\xD1\x84. 1, \xD1\x8D\xD1\x82\xD0\xB0\xD0\xB6 4</p>\r\n\
       <p>\r\n\
+      \t&nbsp;</p>\r\n\
+      <p>\r\n\
+      \te-mail: <a href=\"mailto:land-edem@mail.ru\">land-edem@mail.ru</a></p>\r\n\
+      <p>\r\n\
+      \t&nbsp;</p>\r\n\
+      <p>\r\n\
       \t<iframe frameborder=\"0\" height=\"480\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/maps/ms?msid=217270790828176249199.0004b1518fabed4fd5e09&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=51.707459,39.187202&amp;spn=0.02553,0.054932&amp;z=14&amp;iwloc=0004b1519d273e4caf7ac&amp;output=embed\" width=\"700\"></iframe></p>\r\n\
+      <p>\r\n\
+      \t&nbsp;</p>\r\n\
       <p>\r\n\
       \t<iframe frameborder=\"0\" height=\"600\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.ru/maps/ms?msa=0&amp;msid=217270790828176249199.0004b419a8fe7ccf1f493&amp;hl=ru&amp;ie=UTF8&amp;t=m&amp;ll=51.717883,39.157076&amp;spn=0.015953,0.030041&amp;z=15&amp;iwloc=0004b419ad12f08eb1f09&amp;output=embed\" width=\"700\"></iframe><br />\r\n\
       \t<small>\xD0\x9F\xD1\x80\xD0\xBE\xD1\x81\xD0\xBC\xD0\xBE\xD1\x82\xD1\x80\xD0\xB5\xD1\x82\xD1\x8C <a href=\"http://maps.google.ru/maps/ms?msa=0&amp;msid=217270790828176249199.0004b419a8fe7ccf1f493&amp;hl=ru&amp;ie=UTF8&amp;t=m&amp;ll=51.717883,39.157076&amp;spn=0.015953,0.030041&amp;z=15&amp;iwloc=0004b419ad12f08eb1f09&amp;source=embed\" style=\"color:#0000FF;text-align:left\">\xD0\xAD\xD0\xB4\xD0\xB5\xD0\xBC-\xD1\x82\xD0\xB5\xD0\xBF\xD0\xBB\xD0\xB8\xD1\x86\xD0\xB0</a> \xD0\xBD\xD0\xB0 \xD0\xBA\xD0\xB0\xD1\x80\xD1\x82\xD0\xB5 \xD0\xB1\xD0\xBE\xD0\xBB\xD1\x8C\xD1\x88\xD0\xB5\xD0\xB3\xD0\xBE \xD1\x80\xD0\xB0\xD0\xB7\xD0\xBC\xD0\xB5\xD1\x80\xD0\xB0</small></p>\r\n"
     - 2011-11-01 18:54:07 Z
-    - 2012-03-19 11:54:00 Z
+    - 2012-03-28 08:49:00 Z
     - kontakty
     - 
     - 73
