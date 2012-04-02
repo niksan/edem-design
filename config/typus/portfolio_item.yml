@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+PortfolioItem:
+  fields:
+    default: title, portfolio_id, portfolio_item_image_file_name, portfolio_item_image_file_size
+    form: title, portfolio_id, portfolio_item_image_file_name, portfolio_item_image_file_size
+  relationships: 
+  application: Application

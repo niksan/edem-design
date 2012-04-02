@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+Portfolio:
+  fields:
+    default: name, permalink, portfolio_image_file_name, portfolio_image_file_size
+    form: name, permalink, portfolio_image_file_name, portfolio_image_file_size
+  relationships: portfolio_items, news
+  application: Application

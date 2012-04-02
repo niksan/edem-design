@@ -145,8 +145,8 @@ ActiveRecord::Schema.define(:version => 20120318094155) do
     t.integer  "special_image_file_size"
     t.datetime "special_image_updated_at"
     t.integer  "article_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                 :null => false
+    t.datetime "updated_at",                 :null => false
   end
 
 end
