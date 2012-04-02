@@ -26,7 +26,6 @@ jQuery.fn.gritterNotice = (title='Уведомление', text='что-то п�
   })
 
 $(document).ready( ->
-
   $('#second_menu .item img').wrap('<div class="wrap" />')
   $('body').addActiveClassOnHover('#second_menu .item')
   $('body').goToChildUrl('#second_menu .item')
@@ -34,17 +33,17 @@ $(document).ready( ->
   $('body').goToChildUrl('#news_list .news')
   $('body').goToChildUrl('#special_offer .item')
   $('a.fancybox').fancybox({
-    maxWidth  : 800,
-    maxHeight : 600,
-    fitToView : false,
-    width   : '70%',
-    height    : '70%',
-    autoSize  : false,
-    closeClick  : false,
-    openEffect  : 'none',
-    closeEffect : 'none',
-    prevEffect    : 'none',
-    nextEffect    : 'none',
+    maxWidth: 800,
+    maxHeight: 600,
+    fitToView: false,
+    width: '70%',
+    height: '70%',
+    autoSize: false,
+    closeClick: false,
+    openEffect: 'elastic',
+    closeEffect: 'elastic',
+    prevEffect: 'fade',
+    nextEffect: 'fade',
   })
 
 )
