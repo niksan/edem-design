@@ -6,15 +6,15 @@ gem 'magic_encoding'
 gem 'mysql2'
 gem 'haml-rails'
 gem 'paperclip'
-gem "ckeditor", "3.7.0.rc3"
+gem 'ckeditor', "3.7.0.rc3"
 gem 'gritter_notices'
 gem 'permalink'
 gem 'awesome_nested_set'
 gem 'russian'
 gem 'json'
 gem 'activeadmin'
-gem "meta_search", '>= 1.1.0.pre'
-gem 'yaml_db', :git => 'git://github.com/lostapathy/yaml_db.git'
+gem 'devise'
+gem 'yaml_db', git: 'git://github.com/lostapathy/yaml_db.git'
 gem 'execjs'
 gem 'therubyracer'
 
