@@ -1,8 +1,0 @@
-# Use the README file as a reference to customize settings.
-
-Article:
-  fields:
-    default: title, parent, help_info
-    form: title, body, parent_id, meta_title, help_info
-  relationships: children
-  application: Application

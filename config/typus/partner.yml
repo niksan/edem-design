@@ -1,8 +1,0 @@
-# Use the README file as a reference to customize settings.
-
-Partner:
-  fields:
-    default: name, url, partner_image_file_name, partner_image_file_size
-    form: name, url, partner_image_file_name, partner_image_file_size
-  relationships: 
-  application: Application
