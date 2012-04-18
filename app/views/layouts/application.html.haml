@@ -4,6 +4,8 @@
     %title
       = page_title
     %meta{ :content => 'text/html; charset=UTF-8', :'http-equiv' => 'Content-Type' }
+    %link{ rel: 'shortcut icon', href: asset_path('favicon.gif') }
+    %link{ rel: 'icon', href: asset_path('favicon.gif'), type: 'image/gif' }
     = stylesheet_link_tag 'application'
     = javascript_include_tag 'application'
     = stylesheet_link_tag params[:controller]
