@@ -7,7 +7,8 @@ class Portfolio < ActiveRecord::Base
   has_many :news
   permalink :name, :to_param => %w(id permalink)
 
-  has_attached_file :portfolio_image, :styles => { :medium => "800x600>", :thumb => "200x140#" }
+  image_url = "/system/:attachment/:id/:style/:basename.:extension"
+  has_attached_file :portfolio_image, :styles => { :medium => "800x600>", :thumb => "200x140#" }, url: image_url, path: image_url
 
   private
     
