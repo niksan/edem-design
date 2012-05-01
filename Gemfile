@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.2'
+gem 'rails', '3.2.3'
 gem 'magic_encoding'
 
 gem 'mysql2'
@@ -12,7 +12,7 @@ gem 'permalink'
 gem 'awesome_nested_set'
 gem 'russian'
 gem 'json'
-gem 'activeadmin'
+gem 'rails_admin'
 gem 'devise'
 gem 'yaml_db', git: 'git://github.com/lostapathy/yaml_db.git'
 gem 'execjs'

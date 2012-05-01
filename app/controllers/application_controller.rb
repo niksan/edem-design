@@ -12,7 +12,7 @@ class ApplicationController < ActionController::Base
     end
 
     def find_special_offers
-      @special_offers = SpecialOffer.order('created_at DESC')
+      @special_offers = SpecialOffer.where(public: true).order('created_at DESC')
     end
 
 end

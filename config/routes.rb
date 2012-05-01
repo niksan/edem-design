@@ -1,10 +1,10 @@
 EdemDesign::Application.routes.draw do
 
+  devise_for :users
+
+  mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
+
   mount Ckeditor::Engine => '/ckeditor'
-
-  ActiveAdmin.routes(self)
-
-  devise_for :admin_users, ActiveAdmin::Devise.config
 
   root :to => 'articles#index'
 

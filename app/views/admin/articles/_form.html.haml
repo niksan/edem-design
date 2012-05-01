@@ -1,9 +1,0 @@
-= javascript_include_tag 'ckeditor/init'
-= semantic_form_for [:admin, @article], :multipart => true do |f|
-  = f.inputs :parent
-  = f.inputs :title
-  = f.inputs :meta_title
-  = f.cktext_area :body, :skin => 'office2003'
-  = f.inputs :help_info
-  %br
-  = f.submit
