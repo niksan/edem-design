@@ -194,24 +194,33 @@ RailsAdmin.config do |config|
   #   create do; end
   #   update do; end
   # end
-  # config.model News do
-  #   # Found associations:
-  #     configure :portfolio, :belongs_to_association   #   # Found columns:
-  #     configure :id, :integer 
-  #     configure :title, :string 
-  #     configure :date, :datetime 
-  #     configure :body, :text 
-  #     configure :created_at, :datetime 
-  #     configure :updated_at, :datetime 
-  #     configure :permalink, :string 
-  #     configure :portfolio_id, :integer         # Hidden   #   # Sections:
-  #   list do; end
-  #   export do; end
-  #   show do; end
-  #   edit do; end
-  #   create do; end
-  #   update do; end
-  # end
+  config.model News do
+    # Found associations:
+      configure :portfolio, :belongs_to_association   #   # Found columns:
+      configure :id, :integer 
+      configure :title, :string 
+      configure :date, :datetime 
+      configure :body, :text 
+      configure :created_at, :datetime 
+      configure :updated_at, :datetime 
+      configure :permalink, :string 
+      configure :portfolio_id, :integer         # Hidden   #   # Sections:
+    list do; end
+    export do; end
+    show do; end
+    edit do
+      field :title
+      field :date
+      field :body, :text do
+        ckeditor do 
+          true
+        end
+      end
+      field :portfolio
+    end
+    create do; end
+    update do; end
+  end
   # config.model Partner do
   #   # Found associations:
   #   # Found columns:
