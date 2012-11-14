@@ -1,10 +1,6 @@
 source 'http://rubygems.org'
 
-<<<<<<< HEAD
 gem 'rails', '3.2.9'
-=======
-gem 'rails', '3.2.8'
->>>>>>> 8f0c9d123f522e2683f146eb91fe45bbd910eea9
 gem 'magic_encoding'
 
 gem 'mysql2'
