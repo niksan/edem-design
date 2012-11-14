@@ -1,12 +1,12 @@
 ru:
-  home:
-    name: "Главная"
   views:
     pagination:
       previous: "&laquo; Предыдущая"
       next: "Следующая &raquo;"
       truncate: "…"
   admin:
+    home:
+      name: "Главная"
     misc:
       search: "Поиск"
       filter: "Фильтрация"
