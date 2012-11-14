@@ -1,12 +1,16 @@
 source 'http://rubygems.org'
 
+<<<<<<< HEAD
 gem 'rails', '3.2.9'
+=======
+gem 'rails', '3.2.8'
+>>>>>>> 8f0c9d123f522e2683f146eb91fe45bbd910eea9
 gem 'magic_encoding'
 
 gem 'mysql2'
 gem 'haml-rails'
 gem 'paperclip'
-gem 'ckeditor', "3.7.0.rc3"
+gem 'ckeditor'
 gem 'gritter_notices'
 gem 'permalink'
 gem 'awesome_nested_set'
@@ -20,10 +24,10 @@ gem 'therubyracer'
 
 #group :assets do
   gem 'bootstrap-sass'
-  gem 'sass-rails', "  ~> 3.2.3"
+  gem 'sass-rails'
   gem 'compass-rails'
-  gem 'coffee-rails', "~> 3.2.1"
-  gem 'uglifier', '>= 1.0.3'
+  gem 'coffee-rails'
+  gem 'uglifier'
 #end
 
 group :development do
