@@ -33,10 +33,8 @@ group :development do
   gem 'thin'
 end
 
-group :test do
-  gem 'rspec'
-  gem 'cucumber'
-end
+gem 'rspec'
+gem 'cucumber'
 
 gem 'jquery-rails'
 gem 'unicorn'
