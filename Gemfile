@@ -30,6 +30,7 @@ group :development do
   gem 'rails-erd'
   gem 'rnotify'
   gem 'letter_opener'
+  gem 'thin'
 end
 
 group :test do
