@@ -14,7 +14,7 @@ gem 'russian'
 gem 'json'
 gem 'rails_admin'
 gem 'devise'
-gem 'yaml_db', github: 'lostapathy/yaml_db'
+gem 'yaml_db', github: 'git://github.com/lostapathy/yaml_db.git'
 gem 'execjs'
 gem 'therubyracer'
 
@@ -33,8 +33,10 @@ group :development do
   gem 'thin'
 end
 
-gem 'rspec'
-gem 'cucumber'
+group :test do
+  gem 'rspec'
+  gem 'cucumber'
+end
 
 gem 'jquery-rails'
 gem 'unicorn'
