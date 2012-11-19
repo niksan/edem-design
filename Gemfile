@@ -14,7 +14,7 @@ gem 'russian'
 gem 'json'
 gem 'rails_admin'
 gem 'devise'
-gem 'yaml_db', git: 'git://github.com/lostapathy/yaml_db.git'
+gem 'yaml_db', github: 'lostapathy/yaml_db'
 gem 'execjs'
 gem 'therubyracer'
 
