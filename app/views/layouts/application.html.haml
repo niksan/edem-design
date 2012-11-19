@@ -90,7 +90,7 @@
           #message_form
             %span.header
               Отправить заявку:
-            = form_for :message, :url => { :controller => 'messages', :action => 'create' }, :remote => true, class:'form-vertical' do |f|
+            = form_for :message, :remote => true, class:'form-vertical' do |f|
               %fieldset
                 .control-group
                   = f.label :name, 'Ваше имя', class:'form-horizontal'
