@@ -3,7 +3,7 @@ load 'deploy/assets'
 
 ssh_options[:forward_agent] = true
 
-set :keep_releases, 3 #store releases
+set :keep_releases, 3
 set :application,     'edem-design'
 set :deploy_server,   "lithium.locum.ru"
 set :bundle_without,  [:development, :test]
