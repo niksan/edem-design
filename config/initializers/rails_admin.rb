@@ -42,6 +42,9 @@ RailsAdmin.config do |config|
         ckeditor do 
           true
         end
+        ckeditor_config_js do
+          '/assets/config.js'
+        end
       end
       field :special_offers, :has_many_association
       field :children, :has_many_association
