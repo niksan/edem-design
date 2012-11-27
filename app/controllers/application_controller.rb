@@ -8,7 +8,7 @@ class ApplicationController < ActionController::Base
   private
 
     def find_last_news
-      @last_news = News.order('id DESC').limit(4)
+      @last_news = News.order('date DESC').limit(4)
     end
 
     def find_special_offers
