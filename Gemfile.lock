@@ -1,21 +1,12 @@
 GEM
   remote: http://rubygems.org/
   specs:
-<<<<<<< HEAD
-    actionmailer (3.2.11)
-      actionpack (= 3.2.11)
-      mail (~> 2.4.4)
-    actionpack (3.2.11)
-      activemodel (= 3.2.11)
-      activesupport (= 3.2.11)
-=======
     actionmailer (3.2.12)
       actionpack (= 3.2.12)
       mail (~> 2.4.4)
     actionpack (3.2.12)
       activemodel (= 3.2.12)
       activesupport (= 3.2.12)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       builder (~> 3.0.0)
       erubis (~> 2.7.0)
       journey (~> 1.0.4)
@@ -23,20 +14,6 @@ GEM
       rack-cache (~> 1.2)
       rack-test (~> 0.6.1)
       sprockets (~> 2.2.1)
-<<<<<<< HEAD
-    activemodel (3.2.11)
-      activesupport (= 3.2.11)
-      builder (~> 3.0.0)
-    activerecord (3.2.11)
-      activemodel (= 3.2.11)
-      activesupport (= 3.2.11)
-      arel (~> 3.0.2)
-      tzinfo (~> 0.3.29)
-    activeresource (3.2.11)
-      activemodel (= 3.2.11)
-      activesupport (= 3.2.11)
-    activesupport (3.2.11)
-=======
     activemodel (3.2.12)
       activesupport (= 3.2.12)
       builder (~> 3.0.0)
@@ -49,7 +26,6 @@ GEM
       activemodel (= 3.2.12)
       activesupport (= 3.2.12)
     activesupport (3.2.12)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       i18n (~> 0.6)
       multi_json (~> 1.0)
     addressable (2.3.3)
@@ -57,30 +33,17 @@ GEM
     awesome_nested_set (2.1.6)
       activerecord (>= 3.0.0)
     bcrypt-ruby (3.0.1)
-<<<<<<< HEAD
-    bootstrap-sass (2.2.2.0)
-      sass (~> 3.2)
-    builder (3.0.4)
-    capistrano (2.14.1)
-=======
     bootstrap-sass (2.3.0.1)
       sass (~> 3.2)
     builder (3.0.4)
     capistrano (2.14.2)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       highline
       net-scp (>= 1.0.0)
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
       net-ssh-gateway (>= 1.1.0)
-<<<<<<< HEAD
-    choice (0.1.6)
-    chunky_png (1.2.7)
-    ckeditor (3.7.3)
-=======
     chunky_png (1.2.7)
     ckeditor (4.0.2)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       mime-types
       orm_adapter
     climate_control (0.0.3)
@@ -106,11 +69,7 @@ GEM
       gherkin (~> 2.11.0)
       json (>= 1.4.6)
     daemons (1.1.9)
-<<<<<<< HEAD
-    devise (2.2.0)
-=======
     devise (2.2.3)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       bcrypt-ruby (~> 3.0)
       orm_adapter (~> 0.1)
       railties (~> 3.1)
@@ -120,11 +79,7 @@ GEM
     eventmachine (1.0.1)
     execjs (1.4.0)
       multi_json (~> 1.0)
-<<<<<<< HEAD
-    font-awesome-sass-rails (3.0.0.1)
-=======
     font-awesome-sass-rails (3.0.2.2)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       railties (>= 3.1.1)
       sass-rails (>= 3.1.1)
     fssm (0.2.10)
@@ -147,15 +102,6 @@ GEM
     hike (1.2.1)
     i18n (0.6.4)
     journey (1.0.4)
-<<<<<<< HEAD
-    jquery-rails (2.1.4)
-      railties (>= 3.0, < 5.0)
-      thor (>= 0.14, < 2.0)
-    jquery-ui-rails (2.0.2)
-      jquery-rails
-      railties (>= 3.1.0)
-    json (1.7.6)
-=======
     jquery-rails (2.2.1)
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
@@ -163,43 +109,19 @@ GEM
       jquery-rails
       railties (>= 3.1.0)
     json (1.7.7)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
     kaminari (0.14.1)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
     kgio (2.8.0)
     launchy (2.2.0)
       addressable (~> 2.3)
-<<<<<<< HEAD
-    letter_opener (1.0.0)
-      launchy (>= 2.0.4)
-    libv8 (3.11.8.13)
-    magic_encoding (0.0.2)
-=======
     letter_opener (1.1.0)
       launchy (~> 2.2.0)
     libv8 (3.11.8.13)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
     mail (2.4.4)
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
-<<<<<<< HEAD
-    mime-types (1.19)
-    multi_json (1.5.0)
-    mysql2 (0.3.11)
-    nested_form (0.3.1)
-    net-scp (1.0.4)
-      net-ssh (>= 1.99.1)
-    net-sftp (2.0.5)
-      net-ssh (>= 2.0.9)
-    net-ssh (2.6.2)
-    net-ssh-gateway (1.1.0)
-      net-ssh (>= 1.99.1)
-    nokogiri (1.5.6)
-    orm_adapter (0.4.0)
-    paperclip (3.4.0)
-=======
     mime-types (1.21)
     multi_json (1.6.1)
     mysql2 (0.3.11)
@@ -214,7 +136,6 @@ GEM
     nokogiri (1.5.6)
     orm_adapter (0.4.0)
     paperclip (3.4.1)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       activemodel (>= 3.0.0)
       activerecord (>= 3.0.0)
       activesupport (>= 3.0.0)
@@ -222,11 +143,7 @@ GEM
       mime-types
     permalink (1.2.1)
     polyglot (0.3.3)
-<<<<<<< HEAD
-    rack (1.4.3)
-=======
     rack (1.4.5)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
     rack-cache (1.2)
       rack (>= 0.4)
     rack-pjax (0.7.0)
@@ -236,27 +153,6 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
-<<<<<<< HEAD
-    rails (3.2.11)
-      actionmailer (= 3.2.11)
-      actionpack (= 3.2.11)
-      activerecord (= 3.2.11)
-      activeresource (= 3.2.11)
-      activesupport (= 3.2.11)
-      bundler (~> 1.0)
-      railties (= 3.2.11)
-    rails-erd (1.0.0)
-      activerecord (>= 3.0)
-      activesupport (>= 3.0)
-      choice (~> 0.1.6)
-      ruby-graphviz (~> 1.0.4)
-    rails_admin (0.4.0)
-      bootstrap-sass (~> 2.1)
-      builder (~> 3.0)
-      coffee-rails (~> 3.1)
-      font-awesome-sass-rails (~> 3.0)
-      haml (~> 3.1)
-=======
     rails (3.2.12)
       actionmailer (= 3.2.12)
       actionpack (= 3.2.12)
@@ -271,64 +167,24 @@ GEM
       coffee-rails (~> 3.1)
       font-awesome-sass-rails (~> 3.0, >= 3.0.0.1)
       haml (~> 4.0)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       jquery-rails (~> 2.1)
       jquery-ui-rails (~> 3.0)
       kaminari (~> 0.14)
-<<<<<<< HEAD
-      nested_form (~> 0.2)
-=======
       nested_form (~> 0.3)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       rack-pjax (~> 0.6)
       rails (~> 3.1)
       remotipart (~> 1.0)
       safe_yaml (~> 0.6)
       sass-rails (~> 3.1)
-<<<<<<< HEAD
-    railties (3.2.11)
-      actionpack (= 3.2.11)
-      activesupport (= 3.2.11)
-=======
     railties (3.2.12)
       actionpack (= 3.2.12)
       activesupport (= 3.2.12)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       rack-ssl (~> 1.3.2)
       rake (>= 0.8.7)
       rdoc (~> 3.4)
       thor (>= 0.14.6, < 2.0)
     raindrops (0.10.0)
     rake (10.0.3)
-<<<<<<< HEAD
-    rdoc (3.12)
-      json (~> 1.4)
-    ref (1.0.2)
-    remotipart (1.0.2)
-    rnotify (0.2)
-      activesupport (>= 3.0.0)
-      rspec-rails (>= 2.7.0)
-    rspec (2.12.0)
-      rspec-core (~> 2.12.0)
-      rspec-expectations (~> 2.12.0)
-      rspec-mocks (~> 2.12.0)
-    rspec-core (2.12.2)
-    rspec-expectations (2.12.1)
-      diff-lcs (~> 1.1.3)
-    rspec-mocks (2.12.1)
-    rspec-rails (2.12.1)
-      actionpack (>= 3.0)
-      activesupport (>= 3.0)
-      railties (>= 3.0)
-      rspec-core (~> 2.12.0)
-      rspec-expectations (~> 2.12.0)
-      rspec-mocks (~> 2.12.0)
-    ruby-graphviz (1.0.8)
-    russian (0.6.0)
-      i18n (>= 0.5.0)
-    sass (3.2.5)
-    sass-rails (3.2.5)
-=======
     rdoc (3.12.2)
       json (~> 1.4)
     ref (1.0.2)
@@ -346,7 +202,6 @@ GEM
     safe_yaml (0.8.4)
     sass (3.2.6)
     sass-rails (3.2.6)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       railties (~> 3.2.0)
       sass (>= 3.1.10)
       tilt (~> 1.3)
@@ -355,32 +210,26 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
-<<<<<<< HEAD
-    therubyracer (0.11.1)
-      libv8 (~> 3.11.8.7)
-=======
     therubyracer (0.11.4)
       libv8 (~> 3.11.8.12)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       ref
     thin (1.5.0)
       daemons (>= 1.0.9)
       eventmachine (>= 0.12.6)
       rack (>= 1.0.0)
     thor (0.17.0)
-    tilt (1.3.3)
+    tilt (1.3.4)
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
+    turbo-sprockets-rails3 (0.3.6)
+      railties (> 3.2.8, < 4.0.0)
+      sprockets (>= 2.0.0)
     tzinfo (0.3.35)
     uglifier (1.3.0)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
-<<<<<<< HEAD
-    unicorn (4.5.0)
-=======
     unicorn (4.6.2)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
       kgio (~> 2.6)
       rack
       raindrops (~> 0.7)
@@ -409,18 +258,14 @@ DEPENDENCIES
   mysql2
   paperclip
   permalink
-<<<<<<< HEAD
-  rails (= 3.2.11)
-  rails-erd
-=======
   rails (= 3.2.12)
->>>>>>> 6a8e2f083b790c39d479bcea9f453a777ebff5be
   rails_admin
   rspec
   russian
   sass-rails
   therubyracer
   thin
+  turbo-sprockets-rails3
   uglifier
   unicorn
   yaml_db
