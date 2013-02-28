@@ -1,12 +1,11 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.11'
-gem 'magic_encoding'
+gem 'rails', '3.2.12'
 
 gem 'mysql2'
 gem 'haml-rails'
 gem 'paperclip'
-gem 'ckeditor', "3.7.3"
+gem 'ckeditor'
 gem 'gritter_notices'
 gem 'permalink'
 gem 'awesome_nested_set'
@@ -14,21 +13,17 @@ gem 'russian'
 gem 'json'
 gem 'rails_admin'
 gem 'devise'
-gem 'yaml_db', git: 'git://github.com/lostapathy/yaml_db.git'
-gem 'execjs'
-gem 'therubyracer'
+gem 'yaml_db'
+gem 'bootstrap-sass'
+gem 'sass-rails'
+gem 'compass-rails'
+gem 'coffee-rails'
 
-#group :assets do
-  gem 'bootstrap-sass'
-  gem 'sass-rails'
-  gem 'compass-rails'
-  gem 'coffee-rails'
+group :assets do
   gem 'uglifier'
-#end
+end
 
 group :development do
-  gem 'rails-erd'
-  gem 'rnotify'
   gem 'letter_opener'
   gem 'thin'
 end
@@ -41,3 +36,5 @@ end
 gem 'jquery-rails'
 gem 'unicorn'
 gem 'capistrano'
+gem 'execjs'
+gem 'therubyracer'
