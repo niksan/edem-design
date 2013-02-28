@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.2.12'
-gem 'magic_encoding'
 
 gem 'mysql2'
 gem 'haml-rails'
@@ -15,8 +14,6 @@ gem 'json'
 gem 'rails_admin'
 gem 'devise'
 gem 'yaml_db'
-gem 'execjs'
-gem 'therubyracer'
 gem 'bootstrap-sass'
 gem 'sass-rails'
 gem 'compass-rails'
@@ -39,3 +36,5 @@ end
 gem 'jquery-rails'
 gem 'unicorn'
 gem 'capistrano'
+gem 'execjs'
+gem 'therubyracer'

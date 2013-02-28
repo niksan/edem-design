@@ -118,7 +118,6 @@ GEM
     letter_opener (1.1.0)
       launchy (~> 2.2.0)
     libv8 (3.11.8.13)
-    magic_encoding (0.0.2)
     mail (2.4.4)
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
@@ -253,7 +252,6 @@ DEPENDENCIES
   jquery-rails
   json
   letter_opener
-  magic_encoding
   mysql2
   paperclip
   permalink
