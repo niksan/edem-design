@@ -28,6 +28,14 @@ group :development do
   gem 'thin'
 end
 
+group :assets do
+  gem 'turbo-sprockets-rails3'
+end
+
+group :production do
+  gem 'rb-readline' # for console
+end
+
 group :test do
   gem 'rspec'
   gem 'cucumber'
