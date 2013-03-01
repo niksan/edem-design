@@ -295,3 +295,34 @@ ru:
         few: 'пользователи'
         many: 'пользователи'
         other: 'пользователи'
+    attributes:
+      article:
+        id: '№'
+        title: 'заголовок'
+        parent: 'родитель'
+        body: 'содержание'
+      news:
+        id: '№'
+        title: 'заголовок'
+        date: 'дата'
+        body: 'содержание'
+        portfolio: 'портфолио'
+      news:
+        id: '№'
+        title: 'заголовок'
+        date: 'дата'
+        body: 'содержание'
+        portfolio: 'портфолио'
+      review:
+        id: '№'
+        name: 'имя'
+        email: 'email'
+        phone: 'телефон'
+        theme: 'тема'
+        body: 'отзыв'
+        approve: 'одобрен'
+      partner:
+        id: '№'
+        name: 'название'
+        url: 'адрес сайта'
+        partner_image: 'изображение'

@@ -1,13 +1,16 @@
 #coding: utf-8
 RailsAdmin.config do |config|
 
+  config.authorize_with :cancan
   I18n.default_locale = :ru
   config.current_user_method { current_user }
   config.audit_with :history, User
   config.main_app_name = ['Edem Design', 'Admin']
   config.default_items_per_page = 50
-#  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, GritterNotice]
-  config.label_methods << [:name, :title]
+  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, GritterNotice, Role, RoleUser]
+  [:email, :title].each do |method|
+    config.label_methods << method
+  end
 
   config.model Article do
       configure :parent, :belongs_to_association 
@@ -57,13 +60,16 @@ RailsAdmin.config do |config|
       configure :portfolio, :belongs_to_association
       configure :id, :integer 
       configure :title, :string 
-      configure :date, :datetime 
+      configure :date, :date
       configure :body, :text
       configure :created_at, :datetime 
       configure :updated_at, :datetime 
       configure :permalink, :string 
       configure :portfolio_id, :integer
-    list do; end
+    list do
+      field :title
+      field :date
+    end
     export do; end
     show do; end
     edit do
@@ -101,4 +107,57 @@ RailsAdmin.config do |config|
     update do; end
   end
 
+  config.model Review do
+    configure :id, :integer
+    configure :name, :string
+    configure :email, :string
+    configure :phone, :string
+    configure :theme, :string
+    configure :body, :text
+    configure :approve, :boolean
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :name
+      field :email
+      field :phone
+      field :theme
+      field :approve
+    end
+    export do; end
+    show do; end
+    edit do
+      field :name
+      field :email
+      field :phone
+      field :theme
+      field :body
+      field :approve
+    end
+    create do; end
+    update do; end
+  end
+
+  config.model Partner do
+    configure :id, :integer
+    configure :name, :string
+    configure :url, :string
+    configure :partner_image, :paperclip
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :name
+      field :url
+      field :partner_image
+    end
+    export do; end
+    show do; end
+    edit do
+      field :name
+      field :url
+      field :partner_image
+    end
+    create do; end
+    update do; end
+  end
 end
