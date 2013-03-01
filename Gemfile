@@ -19,16 +19,13 @@ gem 'sass-rails'
 gem 'compass-rails'
 gem 'coffee-rails'
 
-group :assets do
-  gem 'uglifier'
-end
-
 group :development do
   gem 'letter_opener'
   gem 'thin'
 end
 
 group :assets do
+  gem 'uglifier'
   gem 'turbo-sprockets-rails3'
 end
 
