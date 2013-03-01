@@ -21,4 +21,8 @@ module ApplicationHelper
     '/portfolio/' + Portfolio.find(portfolio).to_param + anchor
   end
 
+  def image_from_controller(image)
+    image_tag(image)
+  end
+
 end

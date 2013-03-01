@@ -7,7 +7,7 @@ RailsAdmin.config do |config|
   config.audit_with :history, User
   config.main_app_name = ['Edem Design', 'Admin']
   config.default_items_per_page = 50
-  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, GritterNotice, Role, RoleUser]
+  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, GritterNotice, RoleUser]
   [:email, :title].each do |method|
     config.label_methods << method
   end
@@ -156,6 +156,84 @@ RailsAdmin.config do |config|
       field :name
       field :url
       field :partner_image
+    end
+    create do; end
+    update do; end
+  end
+
+  config.model Role do
+    visible false
+    configure :id, :integer
+    configure :name, :string
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :name
+    end
+    export do; end
+    show do; end
+    edit do
+      field :name
+    end
+    create do; end
+    update do; end
+  end
+
+  config.model User do
+      configure :roles, :has_many_association 
+      configure :id, :integer 
+      configure :email, :string 
+      configure :password, :password
+      configure :password_confirmation, :password
+      configure :reset_password_token, :string
+      configure :reset_password_sent_at, :datetime 
+      configure :remember_created_at, :datetime 
+      configure :sign_in_count, :integer 
+      configure :current_sign_in_at, :datetime 
+      configure :last_sign_in_at, :datetime 
+      configure :current_sign_in_ip, :string 
+      configure :last_sign_in_ip, :string 
+      configure :created_at, :datetime 
+      configure :updated_at, :datetime
+    list do
+      field :id
+      field :email
+      field :sign_in_count
+      field :last_sign_in_at
+      field :last_sign_in_ip
+    end
+    export do; end
+    show do; end
+    edit do
+      field :email
+      field :password
+      field :roles
+    end
+    create do; end
+    update do; end
+  end
+
+  config.model PortfolioItem do
+    visible false
+  end
+
+  config.model Portfolio do
+    configure :portfolio_items, :has_many_association
+    configure :id, :integer
+    configure :name, :string
+    configure :portfolio_image, :paperclip
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :name
+      field :portfolio_image
+    end
+    export do; end
+    show do; end
+    edit do
+      field :name
+      field :portfolio_image
+      field :portfolio_items
     end
     create do; end
     update do; end

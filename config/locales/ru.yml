@@ -326,3 +326,12 @@ ru:
         name: 'название'
         url: 'адрес сайта'
         partner_image: 'изображение'
+      user:
+        id: '№'
+        email: 'e-mail'
+        password: 'пароль'
+        sign_in_count: 'кол-во авторизаций'
+        last_sign_in_at: 'время крайней авторизации'
+        last_sign_in_ip: 'ip крайней автоизации'
+        galeries: 'галереи'
+        roles: 'роли'

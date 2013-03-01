@@ -1,15 +1,20 @@
 # encoding: utf-8
 class Portfolio < ActiveRecord::Base
 
+  attr_accessible :name, :portfolio_image, :portfolio_item_ids
   before_create :set_permalink
-  validates :name, :presence => :true
+  validates :name, presence: true
   has_many :portfolio_items
   has_many :news
-  permalink :name, :to_param => %w(id permalink)
+  permalink :name, to_param: %w(id permalink)
 
   path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"
   url = "/system/:attachment/:id/:style/:basename.:extension"
-  has_attached_file :portfolio_image, :styles => { :medium => "800x600>", :thumb => "200x140#" }, url: url, path: path
+  has_attached_file :portfolio_image, styles: { medium: "800x600>", thumb: "200x140#" }, url: url, path: path
+
+  def portfolio_item_ids
+    portfolio_items.collect{ |item| [item.id, item.id] }
+  end
 
   private
     
