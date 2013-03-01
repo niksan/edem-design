@@ -1,8 +1,7 @@
 //= require jquery
 //= require jquery_ujs
-//= require_tree ./fancybox
+//= require_tree ../../../vendor/assets/javascripts/fancybox
 //= require_self
-
 
 jQuery.fn.addActiveClassOnHover = (selector) ->
   $(selector).hover(
@@ -46,5 +45,7 @@ $(document).ready( ->
     prevEffect: 'fade',
     nextEffect: 'fade',
   })
+  $('#submit_message input').click ->
+    alert()
 
 )

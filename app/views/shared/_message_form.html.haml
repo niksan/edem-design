@@ -1,0 +1,22 @@
+#message_form
+  %span.header
+    Отправить заявку:
+  = form_for :message, url: messages_path, method: :post, remote: true, html: { class: 'form-vertical', id: 'submit_message' } do |f|
+    %fieldset
+      .control-group
+        = f.label :name, 'Ваше имя', class: 'form-horizontal'
+        .controls
+          = f.text_field :name
+      .control-group
+        = f.label :phone, 'Телефон', class: 'form-horizontal'
+        .controls
+          = f.text_field :phone
+      .control-group
+        = f.label :email, 'Электронная почта', class: 'form-horizontal'
+        .controls
+          = f.text_field :email
+      .control-group
+        = f.label :body, 'Сообщение', class: 'form-horizontal'
+        .controls
+          = f.text_area :body
+      = f.submit 'Отправить', class: 'btn btn-success'

@@ -1,0 +1,281 @@
+/*
+  *= require_self
+  *= require_tree ../../../vendor/assets/stylesheets/fancybox
+  */
+
+@import 'bootstrap'
+@import 'compass/reset'
+@import 'compass/css3/border-radius'
+
+body
+  background: #ecf9e7
+  font-size: 10pt
+  font-family: 'Tahoma'
+  a
+    color: #3a6708
+    font-size: 10pt
+    text-decoration: underline
+    &:hover
+      color: #7bab46
+.clear
+  clear: both
+.pretty_border
+  border: solid 5px #B1BF9D
+  margin: 10px
+#wrapper
+  width: 1200px
+  margin: 0px auto 0px auto
+  #header
+    margin: 0px 0px 0px 70px
+    padding: 0px 90px 0px 0px
+    #logo
+      display: block
+      float: left
+    #icons
+      margin: 50px 0px 0px 85px
+      float: left
+      .contacts
+        display: block
+        float: left
+        margin: 0px 50px 0px 0px
+      .sitemap
+        display: block
+        float: left
+        margin: 0px 50px 0px 0px
+      .favorite
+        display: block
+        float: left
+    #contacts
+      float: right
+      color: #3a6708
+      font-family: 'Arial'
+      margin: 45px 0px 0px 0px
+      .phone
+        font-family: 'TimesNewRoman'
+        display: block
+        font-size: 16pt
+    #main_menu
+      float: left
+      margin: 40px 0px 0px 65px
+      line-height: 24px
+      a
+        padding: 2px 17px 2px 17px
+        font-family: 'Georgia'
+        font-size: 14.5px
+        border-right: solid 1px #b3d09a
+      a:last-of-type
+        border: none
+  #second_menu
+    margin: 40px 50px 0px 50px
+    .item
+      @include border-radius(6px, 6px)
+      behavior: stylesheet_url('PIE.htc')
+      border: solid 2px #ecf9e7
+      margin: 0px auto 15px auto
+      cursor: pointer
+      text-align: center
+      width: 169px
+      height: 135px
+      float: left
+      padding: 5px
+      .wrap
+        width: 165px
+        height: 95px
+        display: table-cell
+        vertical-align: bottom
+        img
+          display: block
+          margin: 0px auto 10px auto
+      a
+        text-align: center
+        display: block
+    .item.active
+      border: solid 2px #b3d09a
+      a
+        color: #7bab46
+  #middle_part
+    #content
+      float: left
+      width: 726px
+      padding: 0px 0px 0px 85px
+      margin: 30px 0px 0px 0px
+      strong
+        font-weight: bold
+      .flowers
+        td
+          width: 50%
+          text-align: center
+      h2
+        text-align: center
+        margin: 15px 5px 0px 0px
+        padding: 10px 0px 0px 0px
+        display: block
+        font-weight: bold
+        font-size: 16px
+        text-align: center
+        margin: 0px 0px 5px 0px
+        color: #336600
+      h3
+        text-align: center
+        margin: 15px 5px 0px 0px
+        padding: 10px 0px 0px 0px
+        display: inline-block
+        font-weight: bold
+        font-size: 14px
+        text-align: center
+        margin: 0px 0px 5px 0px
+        color: #336600
+      .green
+        color: #006600
+      ul
+        margin: 10px 5px 0px 15px
+        li
+          list-style-type: circle
+          margin: 0px 0px 5px 10px
+          p
+            margin: 10px 0px
+          ul li
+            list-style-type: disc
+      a.parent_article
+        font-size: 20px
+        margin: 0px 0px 15px 0px
+        display: block
+      h1
+        font-family: 'Georgia'
+        font-size: 24px
+        font-weight: normal
+        color: #3A6708
+        border-bottom: dotted 1px #6D8D42
+        padding: 0px 0px 10px 0px
+        margin: 0px 0px 10px 0px
+      p
+        margin: 0px 0px 10px 0px
+        line-height: 16px
+        white-space: normal
+        text-indent: 20px
+      p.without_indent
+        text-indent: 0px
+      #help_info
+        border-bottom: dotted 1px #6D8D42
+        border-top: dotted 1px #6D8D42
+        margin: 50px 0px 50px 0px
+        padding: 15px 0px 25px 0px
+        span.header
+          display: block
+          color: #2F3334
+          font-family: 'Georgia'
+          font-size: 20px
+          padding-bottom: 12px
+        a
+          color: #2F3334
+          &:hover
+            color: #7bab46
+    #sidebar
+      float: left
+      width: 270px
+      margin: 0px 0px 0px 59px
+      #special_offer
+        cursor: pointer
+        .item
+          margin: 0px 0px 15px 0px
+          img
+            display: block
+            margin: 0px 0px 5px 0px
+          a
+            color: #CD4400
+        span.header
+          display: block
+          color: #CD4400
+          font-family: 'Georgia'
+          font-size: 20px
+          margin: 0px 0px 25px 0px
+      #message_form
+        margin: 50px 0px 50px 0px
+        span.header
+          color: #3A6708
+          font-family: 'Georgia'
+          font-size: 18px
+          padding: 0px 0px 8px 0px
+        form
+          display: block
+          margin: 10px 0px 0px 0px
+          @include border-radius(8px, 8px)
+          behavior: stylesheet_url('PIE.htc')
+          background: #DDEDCF
+          padding: 15px 10px 15px 10px
+          label
+            font-size: 12px
+            font-style: italic
+            text-align: left
+          textarea
+            display: block
+            width: 235px
+            height: 100px
+            margin: 0px 0px 10px 0px
+          input[type=text]
+            width: 235px
+  #news
+    padding: 0px 0px 0px 10px
+    margin: 50px 0px 10px 0px
+    a.header
+      display: block
+      margin: 0px 0px 0px 83px
+      color: #3A6708
+      font-family: 'Georgia'
+      font-size: 24px
+      text-decoration: none
+      &:hover
+        text-decoration: underline
+    #news_left
+      float: left
+      margin: -18px 0px 0px 0px
+      width: 73px
+      height: 181px
+      background: image_url('news/left_bg.jpg') no-repeat
+    #news_list
+      float: left
+      background: #d8e9c9
+      margin: 14px 0px 0px 0px
+      width: 973px
+      height: 110px
+      padding: 20px 0px 0px 17px
+      .news
+        cursor: pointer
+        float: left
+        width: 190px
+        height: 108px
+        overflow: hidden
+        margin: 0px 52px 0px 0px
+        span.date
+          display: block
+          margin: 0px 0px 10px 0px
+        a
+          display: block
+          font-size: 12px
+      .news.active a 
+        color: #7bab46
+    #news_right
+      margin: -13px 0px 0px 0px
+      float: left
+      width: 94px
+      height: 200px
+      background: image_url('news/right_bg.jpg') no-repeat
+    a.all_news
+      display: block
+      font-size: 16px
+      margin: 0px 0px 0px 70px
+  #footer
+    background: image_url('footer/bg.jpg') no-repeat right bottom
+    height: 110px
+    .contacts
+      margin: 0px 0px 0px 300px
+      span.phone
+        display: block
+        margin: 0px 0px 5px 0px
+        font-family: 'TimesNewRoman'
+        font-size: 22px
+        color: #3A6708
+      span.address
+        display: block
+      a
+        color: #CE5322

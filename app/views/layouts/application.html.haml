@@ -27,54 +27,15 @@
             +7(473)2-92-00-76
           г. Воронеж, ул. Хользунова, 4, оф. 1, этаж 4
         #main_menu
-          = link_to 'О нашей студии', article_permalink(19, 'second_menu')
-          = link_to 'Портфолио', portfolio_index_path(anchor: 'second_menu')
-          = link_to 'Прайс-лист', article_permalink(20, 'second_menu')
-          = link_to 'Партнеры', partners_path(anchor: 'second_menu')
-          = link_to 'Отзывы', reviews_path(anchor: 'second_menu')
-          = link_to 'Контакты', article_permalink(21, 'second_menu')
+          - cache 'main_menu' do
+            = render 'shared/main_menu'
       %object{ data: asset_path('header.swf'), height: '216', id: 'header_flash', type: 'application/x-shockwave-flash', width: '1200' }
         %param{ name: 'movie', value: asset_path('header.swf') }
         %param{ name: 'wmode', value: 'transparent'}
         %param{ name: 'quality', value: 'high' }
       #second_menu
-        .item
-          = image_tag 'header/second_menu/landshaftnoe_proektirovanie.gif', alt: 'ландшафтное проектирование'
-          = link_to 'Ландшафтное проектирование', article_permalink(1, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/rasteniya.gif', alt: 'растения'
-          = link_to 'Растения', article_permalink(2, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/vodoemi.gif', alt: 'водоемы'
-          = link_to 'Водоемы', article_permalink(3, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/stilistika_sada.gif', alt: 'стилистика сада'
-          = link_to 'Стилистика сада', article_permalink(4, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/posadka_krupnomerov.gif', alt: 'посадка крупномеров'
-          = link_to 'Посадка крупномеров', article_permalink(5, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/uslugi_sadovnika.gif', alt: 'услуги садовника'
-          = link_to 'Услуги садовника', article_permalink(6, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/mosheniya.gif', alt: 'мощения'
-          = link_to 'Мощения', article_permalink(7, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/malie_arhitekturnie_formi.gif', alt: 'малые архитектурные формы'
-          = link_to 'Малые архитектурные формы', article_permalink(8, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/avtomaticheskiy_poliv.gif', alt: 'автоматический полив'
-          = link_to 'Автоматический полив', article_permalink(9, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/osveshenie.gif', alt: 'освещение'
-          = link_to 'Освещение', article_permalink(10, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/vertikalnoe_ozelenenie.gif', alt: 'вертикальное озеленение'
-          = link_to 'Вертикальное озеленение', article_permalink(11, 'second_menu')
-        .item
-          = image_tag 'header/second_menu/zimnie_sadi.gif', alt: 'зимние сады'
-          = link_to 'Зимние сады', article_permalink(12, 'second_menu')
-        .clear
+        - cache 'second_menu' do
+          = render 'shared/second_menu'
       #middle_part
         #content
           = yield
@@ -85,31 +46,9 @@
             - @special_offers.each do |special|
               .item
                 = image_tag special.special_image.url(:thumb), alt: special.name
-                = link_to raw(special.name), article_path(special.article, anchor:'second_menu')
+                = link_to raw(special.name), article_path(special.article, anchor: 'second_menu')
               .clear
-          #message_form
-            %span.header
-              Отправить заявку:
-            = form_for :message, :remote => true, class:'form-vertical' do |f|
-              %fieldset
-                .control-group
-                  = f.label :name, 'Ваше имя', class: 'form-horizontal'
-                  .controls
-                    = f.text_field :name
-                .control-group
-                  = f.label :phone, 'Телефон', class: 'form-horizontal'
-                  .controls
-                    = f.text_field :phone
-                .control-group
-                  = f.label :email, 'Электронная почта', class: 'form-horizontal'
-                  .controls
-                    = f.text_field :email
-                .control-group
-                  = f.label :body, 'Сообщение', class: 'form-horizontal'
-                  .controls
-                    = f.text_area :body
-                = f.submit 'Отправить', class: 'btn btn-success'
-
+          = render 'shared/message_form'
         .clear
         #news
           = link_to 'Новости:', news_index_path, class: 'header'
