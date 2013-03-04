@@ -214,10 +214,31 @@ RailsAdmin.config do |config|
   end
 
   config.model PortfolioItem do
-    visible false
+    configure :portfolio, :belongs_to_association
+    configure :id, :integer
+    configure :portfolio_id, :integer
+    configure :title, :string
+    configure :portfolio_item_image, :paperclip
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :portfolio_item_image
+      field :title
+      field :portfolio
+    end
+    export do; end
+    show do; end
+    edit do
+      field :portfolio
+      field :title
+      field :portfolio_item_image
+    end
+    create do; end
+    update do; end
   end
 
   config.model Portfolio do
+    visible false
     configure :portfolio_items, :has_many_association
     configure :id, :integer
     configure :name, :string
@@ -233,7 +254,32 @@ RailsAdmin.config do |config|
     edit do
       field :name
       field :portfolio_image
-      field :portfolio_items
+    end
+    create do; end
+    update do; end
+  end
+
+  config.model SpecialOffer do
+    configure :article_id, :belongs_to_association
+    configure :id, :integer
+    configure :name, :string
+    configure :special_image, :paperclip
+    configure :public, :boolean
+    configure :created_at, :datetime
+    configure :updated_at, :datetime
+    list do
+      field :name
+      field :special_image
+      field :article
+      field :public
+    end
+    export do; end
+    show do; end
+    edit do
+      field :article
+      field :name
+      field :special_image
+      field :public
     end
     create do; end
     update do; end

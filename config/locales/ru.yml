@@ -326,6 +326,22 @@ ru:
         name: 'название'
         url: 'адрес сайта'
         partner_image: 'изображение'
+      portfolio:
+        id: '№'
+        name: 'название'
+        portfolio_image: 'изображение'
+        portfolio_items: 'элементы портфолио'
+      portfolio_item:
+        id: '№'
+        title: 'заголовок'
+        portfolio: 'портфолио'
+        portfolio_item_image: 'изображение'
+      special_offer:
+        id: '№'
+        name: 'название'
+        special_image: 'изображение'
+        article: 'статья'
+        public: 'опубликовано'
       user:
         id: '№'
         email: 'e-mail'
