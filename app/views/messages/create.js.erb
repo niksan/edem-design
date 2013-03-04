@@ -1,5 +1,6 @@
-$('#message_name').attr('value', '');
-$('#message_phone').attr('value', '');
-$('#message_email').attr('value', '');
-$('#message_body').attr('value', '');
-$('body').gritterNotice('Уведомление', 'Ваше сообщение успешно отправлено!');
+<% if @success %>
+  $('#submit_message .btn.btn-success').parent().closest('form').find('input[type=text], textarea').val('')
+  $('body').gritterNotice('Уведомление', 'Ваше сообщение успешно отправлено!');
+<% else%>
+  $('body').gritterNotice('Ошибка', 'Неверно заполнены поля формы.', '/images/gritter/error.png');
+<% end %>

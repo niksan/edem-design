@@ -1,9 +1,8 @@
 # encoding: utf-8
 class Message
-  
-  attr :name
-  attr :phone
-  attr :email
-  attr :body
+  include ActiveModel::Validations
+  attr_accessor :name, :phone, :email, :body
+  validates_presence_of :name, :phone, :email, :body
+  validates :email, presence: true, format: { with: /^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i }
 
 end
