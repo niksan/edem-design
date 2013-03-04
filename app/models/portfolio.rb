@@ -1,12 +1,13 @@
 # encoding: utf-8
 class Portfolio < ActiveRecord::Base
 
-  attr_accessible :name, :portfolio_image, :portfolio_item_ids
+  attr_accessible :name, :portfolio_image, :portfolio_item_ids, :image, :image_cache, :remove_image
   before_create :set_permalink
   validates :name, presence: true
   has_many :portfolio_items
   has_many :news
   permalink :name, to_param: %w(id permalink)
+  mount_uploader :image, PortfolioUploader
 
   path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"
   url = "/system/:attachment/:id/:style/:basename.:extension"

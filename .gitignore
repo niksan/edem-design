@@ -6,4 +6,5 @@ tmp/
 config/database.yml
 public/assets
 public/system
+public/uploads
 public/ckeditor_assets

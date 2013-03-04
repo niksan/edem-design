@@ -34,6 +34,7 @@ task :set_links, roles => :app do
   links = {
     '/ckeditor_assets' => '/public/ckeditor_assets',
     '/system' => '/public/system',
+    '/uploads' => '/public/uploads',
     '/config/database.yml' => '/config/database.yml'
   }
   links.each do |from, destination|

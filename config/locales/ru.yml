@@ -330,6 +330,7 @@ ru:
         id: '№'
         name: 'название'
         portfolio_image: 'изображение'
+        image: 'изображение'
         portfolio_items: 'элементы портфолио'
       portfolio_item:
         id: '№'

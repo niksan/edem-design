@@ -243,17 +243,20 @@ RailsAdmin.config do |config|
     configure :id, :integer
     configure :name, :string
     configure :portfolio_image, :paperclip
+    configure :image, :carrierwave
     configure :created_at, :datetime
     configure :updated_at, :datetime
     list do
       field :name
       field :portfolio_image
+      field :image
     end
     export do; end
     show do; end
     edit do
       field :name
       field :portfolio_image
+      field :image
     end
     create do; end
     update do; end

@@ -43,6 +43,9 @@ GEM
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
       net-ssh-gateway (>= 1.1.0)
+    carrierwave (0.8.0)
+      activemodel (>= 3.2.0)
+      activesupport (>= 3.2.0)
     chunky_png (1.2.7)
     ckeditor (4.0.2)
       mime-types
@@ -124,6 +127,8 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.21)
+    mini_magick (3.5.0)
+      subexec (~> 0.2.1)
     multi_json (1.6.1)
     mysql2 (0.3.11)
     nested_form (0.3.1)
@@ -212,6 +217,7 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
+    subexec (0.2.2)
     therubyracer (0.11.4)
       libv8 (~> 3.11.8.12)
       ref
@@ -247,6 +253,7 @@ DEPENDENCIES
   bootstrap-sass
   cancan
   capistrano
+  carrierwave
   ckeditor
   coffee-rails
   compass-rails
@@ -258,6 +265,7 @@ DEPENDENCIES
   jquery-rails
   json
   letter_opener
+  mini_magick
   mysql2
   paperclip
   permalink
