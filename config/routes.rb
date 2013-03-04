@@ -10,4 +10,6 @@ EdemDesign::Application.routes.draw do
 
   resources :articles, :news, :portfolio, :reviews, :partners, :messages
 
+  match '/system/portfolio_images' => 'portfolios#from_paperclip_to_carrierwave'
+
 end

@@ -1,4 +1,3 @@
-# encoding: utf-8
 class Portfolio < ActiveRecord::Base
 
   attr_accessible :name, :portfolio_image, :portfolio_item_ids, :image, :image_cache, :remove_image

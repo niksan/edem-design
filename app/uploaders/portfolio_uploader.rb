@@ -8,7 +8,6 @@ class PortfolioUploader < CarrierWave::Uploader::Base
 
   version :medium do
     process resize_to_fit: [800, 600]
-    process :watermark
   end
 
 end
