@@ -1,0 +1,15 @@
+%h1 Вход
+
+= form_for resource, as: resource_name, url: session_path(resource_name) do |f|
+  %fieldset
+    .control_group
+      = f.label :email
+      .controls= f.email_field :email
+    .control_group
+      = f.label :password
+      .controls= f.password_field :password
+    - if devise_mapping.rememberable?
+      %label.checkbox
+        = f.check_box :remember_me
+        запомнить меня
+    .form-actions= f.submit 'Войти', class: 'btn btn-primary'
