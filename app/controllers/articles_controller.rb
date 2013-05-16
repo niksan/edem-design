@@ -11,7 +11,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    redirect_to root_path if @article.special_offers.any? { |s| s.public }
+    redirect_to root_path if @article.special_offers.any? { |s| s.public == false }
   end
 
   private
