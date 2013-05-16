@@ -11,6 +11,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
+    redirect_to root_path if @article.special_offers.where(public: true).empty?
   end
 
   private
