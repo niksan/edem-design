@@ -46,7 +46,7 @@
             - @special_offers.each do |special|
               .item
                 = image_tag special.special_image.url(:thumb), alt: special.name
-                = link_to raw(special.name), article_path(special.article, anchor: 'second_menu') unless special.article.nil?
+                = link_to raw(special.name), ( special.article ? article_path(special.article, anchor: 'second_menu') : '#' )
               .clear
           = render 'shared/message_form'
         .clear
