@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.12'
+gem 'rails', '3.2.13'
 
 gem 'mysql2'
 gem 'haml-rails'
@@ -23,15 +23,14 @@ gem 'coffee-rails'
 group :development do
   gem 'letter_opener'
   gem 'thin'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'meta_request'
 end
 
 group :assets do
   gem 'uglifier'
   gem 'turbo-sprockets-rails3'
-end
-
-group :production do
-  gem 'rb-readline' # for console
 end
 
 group :test do
