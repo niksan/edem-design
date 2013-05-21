@@ -2589,87 +2589,132 @@ articles:
     - false
   - - 48
     - Многолетники
-    - "<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<rbody>
-      </rbody></p>\r\n<table class=\"table table-bordered flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
-      &lsquo;Rhythm and Beat&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/363/content_mnogoletniki_html_m791efaee.jpg?1335859902\"
-      style=\"width: 250px; height: 382px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      85 см.<br />\r\n\t\t\t\t\tШирина:50-60 см.<br />\r\n\t\t\t\t\tСроки цветения:
-      средние.<br />\r\n\t\t\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
-      &lsquo;Fanal&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/364/content_mnogoletniki_html_m7757c7f9.jpg?1335859919\"
-      style=\"width: 250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      60 см.<br />\r\n\t\t\t\t\tЦвет: темно-красная окраска цветков.<br />\r\n\t\t\t\t\tЦветет:
-      с июня по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
-      &lsquo;Washington&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/365/content_mnogoletniki_html_59ebd9ca.jpg?1335859933\"
-      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      60 см.<br />\r\n\t\t\t\t\tЦвет: Соцветие ромбическое, белого цвета.<br />\r\n\t\t\t\t\tЦветение:
-      июль.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
-      &lsquo;Straussenfeder&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/366/content_mnogoletniki_html_72d79b64.jpg?1335859945\"
-      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      80-90 см.<br />\r\n\t\t\t\t\tЦвет: кораллово-розовый лососево-розовые.<br />\r\n\t\t\t\t\tЦветение:
-      июль-август.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛИЛЕЙНИК
-      &lsquo;Children&rsquo;s Festival&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/367/content_mnogoletniki_html_59c77f3a.jpg?1335859957\"
-      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      40-60 см.<br />\r\n\t\t\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\t\t\tЦвет:
-      Розово-кремовый цветок с абрикосовым горлом.<br />\r\n\t\t\t\t\tЦветение: июнь-июль.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛИЛЕЙНИК
-      &lsquo;Gentle Shepherd&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/368/content_mnogoletniki_html_19a0447b.jpg?1335859970\"
-      style=\"width: 250px; height: 168px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      до 70 см<br />\r\n\t\t\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\t\t\tЦвет:
-      розовато-белые, с небольшим светло-зеленым горлышком<br />\r\n\t\t\t\t\tЦветение:
-      среднего срока цветения</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tХОСТА
-      fortunei &lsquo;Albopicta&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/369/content_mnogoletniki_html_m141f941a.jpg?1335859981\"
-      style=\"width: 250px; height: 245px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      60-70 см<br />\r\n\t\t\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\t\t\tЦветки:
-      Светло-фиолетовые<br />\r\n\t\t\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\t\t\tСрок
-      цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tХОСТА
-      fortunei &lsquo;Patriot&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/401/content_1.jpg?1336928787\" style=\"width:
-      250px; height: 221px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      35-45 см<br />\r\n\t\t\t\t\tЛистья: Тёмно-зелёные листья с<br />\r\n\t\t\t\t\tширокой
-      зубчатой белой каймой<br />\r\n\t\t\t\t\tЦветки: лавандовые</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
-      &lsquo;Blue King&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/402/content_5.jpg?1336928804\" style=\"width:
-      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      до 60 см<br />\r\n\t\t\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\t\t\tВремя
-      цветения: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
-      &lsquo;pseudacorus&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/403/content_2.jpg?1336928826\" style=\"width:
-      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      60-100 см<br />\r\n\t\t\t\t\tОкраска цветов: желтые<br />\r\n\t\t\t\t\tВремя
-      цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
-      &lsquo;White Swirl&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/404/content_4.jpg?1336928840\" style=\"width:
-      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      120см<br />\r\n\t\t\t\t\tОкраска цветов: белые<br />\r\n\t\t\t\t\tВремя цветения:
-      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
-      &lsquo;setosa nana&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/405/content_3.jpg?1336928880\" style=\"width:
-      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      60 см<br />\r\n\t\t\t\t\tОкраска цветов: голубые<br />\r\n\t\t\t\t\tВремя цветения:
-      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПеларгония
-      Ева</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/407/content_html_6cde39cd.jpg?1337658540\" style=\"width:
-      250px; height: 279px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПеларгония
-      бланка</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/406/content_html_2b726463.jpg?1337658525\" style=\"width:
-      250px; height: 195px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tДельфиниум</h3>\r\n\t\t\t\t<p
-      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/408/content_.jpg.?1337659383\"
-      style=\"width: 250px; height: 328px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tДельфиниум</h3>\r\n\t\t\t\t<p
-      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/409/content_1.jpg?1337659398\"
-      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛаванда</h3>\r\n\t\t\t\t<p
-      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/410/content_.jpg.?1337659421\"
-      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПлатикодон</h3>\r\n\t\t\t\t<p
-      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/411/content_.jpg.?1337659439\"
-      style=\"width: 250px; height: 192px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a
-      href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n"
+    - "<h2>Пеларгония</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/732/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br />\r\n\t\t\tнасыщенно-лососевая.<br
+      />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/733/content_2.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие цветы, основной тон
+      красно-малиновый, на верхних лепестках красные блики.В центре маленький белый
+      глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/734/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия очень большие
+      и плотные. Лепестки белые с лососевым центром. Компактный кустик весь покрывается
+      огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/735/content_4.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной малиновой окраской
+      крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/736/content_5.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой окраски собраны в
+      крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/737/content_6.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый, крупный, очень красивого
+      насыщенного фиолетового цвета по краям и более темного в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/738/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br />\r\n\t\t\tЦвет: желтый<br
+      />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/739/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60 см<br
+      />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый цветок<br
+      />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/740/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 70 см<br
+      />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые, с
+      небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/741/content_10.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 65 см<br
+      />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/742/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 &mdash;
+      80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/743/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 17 см<br
+      />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с золотистыми
+      краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/744/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 12-14 см<br
+      />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/745/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 14 см<br
+      />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/746/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота:
+      65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/747/content_16.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 60 см<br
+      />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White
+      Swirl</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/748/content_17.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/749/content_18.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br />\r\n\t\t\tОкраска
+      цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/750/content_19.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/751/content_20.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA
+      APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/752/content_21.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/753/content_22.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br />\r\n\t\t\tВысота:
+      100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/754/content_23.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 85 см<br
+      />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br />\r\n\t\t\tЦвет:
+      Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/755/content_24.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br />\r\n\t\t\tЦвет: темно-красная
+      окраска цветков<br />\r\n\t\t\tЦветет: с июня по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/756/content_25.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br />\r\n\t\t\tЦвет: Соцветие
+      ромбическое,белого цвета<br />\r\n\t\t\tЦветение: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/757/content_26.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br />\r\n\t\t\tЦвет:
+      кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение: июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/758/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br
+      />\r\n\t\t\tЛистья: Тёмно-зелёные листья с широкой зубчатой белой каймой<br
+      />\r\n\t\t\tЦветки: лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/759/content_28.jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/760/content_29.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/761/content_30.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/762/content_31.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      PALACE PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/763/content_32.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/764/content_33.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/765/content_34.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/766/content_35.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/767/content_36.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/768/content_37.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/769/content_38.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/770/content_39.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ
+      ТРАВА Т15 patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/771/content_40.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"
     - 2012-05-01 06:27:58.000000000 Z
-    - 2012-11-29 10:17:29.000000000 Z
+    - 2013-05-21 18:50:42.000000000 Z
     - mnogoletniki
     - 47
     - 83
@@ -2679,133 +2724,128 @@ articles:
     - false
   - - 49
     - Однолетники
-    - "<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n<table
-      class=\"table table-bordered flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Браво lavender</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/377/content_18.jpg?1336924149\" style=\"width:
-      250px; height: 176px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
-      см<br />\r\n\t\t\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Браво white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/378/content_13.jpg?1336924177\" style=\"width:
-      250px; height: 257px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Браво pink veined</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/379/content_22.jpg?1336924216\" style=\"width:
-      250px; height: 300px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      25-30 см<br />\r\n\t\t\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      лавина розовая</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/380/content_2.jpg?1336924241\" style=\"width:
-      250px; height: 338px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      50 см<br />\r\n\t\t\t\t\tДиаметр: 7 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Браво silver veined</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/381/content_1.jpg?1336924267\" style=\"width:
-      250px; height: 323px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
-      см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/382/content_7.jpg?1336924291\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
-      см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Браво skay blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/383/content_28.jpg?1336924330\" style=\"width:
-      250px; height: 185px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо red</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/384/content_27.jpg?1336924373\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо burgundy</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/385/content_12.jpg?1336924407\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      25-30 см<br />\r\n\t\t\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Мамбо salmon</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/371/content_petuniya_1_html_m3074a36e.gif\"
-      style=\"width: 250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      20 см<br />\r\n\t\t\t\t\tДиаметр: до9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо rose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/386/content_4.jpg?1336924597\" style=\"width:
-      250px; height: 377px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      20-25 см<br />\r\n\t\t\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Мамбо white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/372/content_petuniya_1_html_31d02edd.gif\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      20-25 см<br />\r\n\t\t\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо salmon</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/387/content_16.jpg?1336924688\" style=\"width:
-      250px; height: 281px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Мамбо blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/388/content_30.jpg?1336924714\" style=\"width:
-      250px; height: 283px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Лимбо white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/389/content_11.jpg?1336924750\" style=\"width:
-      250px; height: 323px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Мамбо red</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/390/content_3.jpg?1336924773\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Мамбо rose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/391/content_10.jpg?1336924800\" style=\"width:
-      250px; height: 281px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЦинерария
-      приморская &quot;Сильверадо&rdquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/374/content_petuniya_1_html_m8f61571.gif\"
-      style=\"width: 250px; height: 265px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      25 см<br />\r\n\t\t\t\t\tОкраска листьев: серебристая</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tТагетес
-      Антигуа orange</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/375/content_petuniya_1_html_m33ef009c.gif\"
-      style=\"width: 250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      20 см<br />\r\n\t\t\t\t\tСоцветия: 6-13 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАгератум
-      Хоустона &quot;Дануб&quot;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/354/content_odnoletniki_na_sayt_html_210fa650.jpg?1335855828\"
-      style=\"width: 251px; height: 266px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tТагетес
-      Антигуа primrose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/376/content_petuniya_1_html_m527ab26e.gif\"
-      style=\"width: 250px; height: 322px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота
-      растений, см: 20-25<br />\r\n\t\t\t\t\tСоцветие: до 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tКолеус
-      Блек Драгон</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/393/content_24.jpg?1336924965\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      30-35 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЦинерария
-      приморская &quot;Сильвер Даст&rdquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/373/content_petuniya_1_html_104be66f.gif\"
-      style=\"width: 250px; height: 265px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
-      20 см<br />\r\n\t\t\t\t\tОкраска листьев: серебристо-серая.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tКолеус
-      Визард Скарлет</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
-      alt=\"\" src=\"/ckeditor_assets/pictures/394/content_25.jpg?1336925039\" style=\"width:
-      250px; height: 241px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:30-35
-      см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<h2>\r\n\tПетуния
-      гибридная многоцветковая низкорослая</h2>\r\n<table class=\"table table-bordered
-      flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Анжелика</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/395/content_6.jpg?1336925071\" style=\"width:
-      250px; height: 261px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      сильвия</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/396/content_29.jpg?1336925097\" style=\"width:
-      250px; height: 274px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Марика</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/397/content_14.jpg?1336925120\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Андреа</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/398/content_15.jpg?1336925145\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Рита</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/399/content_21.jpg?1336925188\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,&nbsp;<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
-      Иветта</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
-      src=\"/ckeditor_assets/pictures/400/content_17.jpg?1336925238\" style=\"width:
-      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,&nbsp;<br
-      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a
-      href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>"
+    - "<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво lavender</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/772/content_1.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво Алладин Черри</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/773/content_2.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см<br />\r\n\t\t\tОкраска вишневая.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво pink veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/774/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/775/content_4.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Браво silver veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/776/content_5.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Фриллитуния Burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/777/content_6.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния крупноцветковая Ultra burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/778/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр:
+      10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/779/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/780/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо white</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/781/content_10.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/782/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/783/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br
+      />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо salmon​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/784/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20 см<br
+      />\r\n\t\t\tДиаметр: до 9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо white​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/785/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br
+      />\r\n\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/786/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния Мамбо red​</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/787/content_16.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Кан
+      Кан hariequin cherry rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/788/content_17.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>крупноцветковая петуния
+      с бархатными кружевными цветами.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Халахуп
+      blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/789/content_18.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 10-15 см<br
+      />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния&nbsp;Халахуп burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/790/content_19.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Ранняя крупноцветковая петуния с ободком.<br
+      />\r\n\t\t\tВысота: 10-15 см<br />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Петуния
+      ампельная</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Easy
+      Wave Plum Vein</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/791/content_20.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Pink
+      morn</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/792/content_21.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>White</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/793/content_22.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Колеус
+      Визард</h2>\r\n\r\n<p>30-35 см высотой и 25-30 см шириной. Компактные, яркие
+      растения, со средним размером базальных листьев</p>\r\n\r\n<table class=\"flowers
+      table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pineapple</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/794/content_23.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Scarlet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/795/content_24.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>velvet
+      red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/796/content_25.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Колеус
+      Блек Драгон</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/797/content_26.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 30-35 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Тагетес</h2>\r\n\r\n<p>​Серия
+      из четырех колеров, генетически низкое растение высотой 25-30 см. Махровые цветки
+      до 10 см в диаметре.</p>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      mix</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/798/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      primrose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/799/content_28.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      gold​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/800/content_29.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      yellow</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/801/content_30.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Ипомея</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Purple</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/802/content_31.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Light Green</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/803/content_32.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Бальзамин</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Tenango</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/804/content_33.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений: 20-25 см<br />\r\n\t\t\tЦветок/
+      соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Nagena</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/805/content_34.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений: 20-25 см<br />\r\n\t\t\tЦветок/
+      соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Лобелия</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Ривьера rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/806/content_35.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Маттиола</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Синдерелла pink</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/807/content_36.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Цинерария</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Сильверадо</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/808/content_37.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Агератум Хоустона
+      &quot;Дануб&quot;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/809/content_38.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>САЛЬВИЯ карликовая Reddy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/810/content_39.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Формирует компактный кустик, высотой 20-25см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"
     - 2012-05-01 06:58:50.000000000 Z
-    - 2012-06-28 14:08:56.000000000 Z
+    - 2013-05-21 18:58:17.000000000 Z
     - odnoletniki
     - 47
     - 85
@@ -9230,6 +9270,717 @@ ckeditor_assets:
     - Ckeditor::Picture
     - 2013-04-14 08:03:45.000000000 Z
     - 2013-04-14 08:03:45.000000000 Z
+  - - 732
+    - 1.jpg
+    - image/jpeg
+    - 17276
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:43:44.000000000 Z
+    - 2013-05-21 18:43:44.000000000 Z
+  - - 733
+    - 2.jpg
+    - image/jpeg
+    - 14285
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:43:53.000000000 Z
+    - 2013-05-21 18:43:53.000000000 Z
+  - - 734
+    - 3.jpg
+    - image/jpeg
+    - 19762
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:01.000000000 Z
+    - 2013-05-21 18:44:01.000000000 Z
+  - - 735
+    - 4.jpg
+    - image/jpeg
+    - 16792
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:10.000000000 Z
+    - 2013-05-21 18:44:10.000000000 Z
+  - - 736
+    - 5.jpg
+    - image/jpeg
+    - 15302
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:19.000000000 Z
+    - 2013-05-21 18:44:19.000000000 Z
+  - - 737
+    - 6.jpg
+    - image/jpeg
+    - 17001
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:28.000000000 Z
+    - 2013-05-21 18:44:28.000000000 Z
+  - - 738
+    - 7.jpg
+    - image/jpeg
+    - 18861
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:39.000000000 Z
+    - 2013-05-21 18:44:39.000000000 Z
+  - - 739
+    - 8.jpg
+    - image/jpeg
+    - 19318
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:48.000000000 Z
+    - 2013-05-21 18:44:48.000000000 Z
+  - - 740
+    - 9.jpg
+    - image/jpeg
+    - 18218
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:44:58.000000000 Z
+    - 2013-05-21 18:44:58.000000000 Z
+  - - 741
+    - 10.jpg
+    - image/jpeg
+    - 17739
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:45:07.000000000 Z
+    - 2013-05-21 18:45:07.000000000 Z
+  - - 742
+    - 11.jpg
+    - image/jpeg
+    - 21282
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:45:16.000000000 Z
+    - 2013-05-21 18:45:16.000000000 Z
+  - - 743
+    - 12.jpg
+    - image/jpeg
+    - 18285
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:45:24.000000000 Z
+    - 2013-05-21 18:45:24.000000000 Z
+  - - 744
+    - 13.jpg
+    - image/jpeg
+    - 19621
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:45:34.000000000 Z
+    - 2013-05-21 18:45:34.000000000 Z
+  - - 745
+    - 14.jpg
+    - image/jpeg
+    - 21731
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:45:42.000000000 Z
+    - 2013-05-21 18:45:42.000000000 Z
+  - - 746
+    - 15.jpg
+    - image/jpeg
+    - 18684
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:46:00.000000000 Z
+    - 2013-05-21 18:46:00.000000000 Z
+  - - 747
+    - 16.jpg
+    - image/jpeg
+    - 16587
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:46:23.000000000 Z
+    - 2013-05-21 18:46:23.000000000 Z
+  - - 748
+    - 17.jpg
+    - image/jpeg
+    - 18677
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:46:31.000000000 Z
+    - 2013-05-21 18:46:31.000000000 Z
+  - - 749
+    - 18.jpg
+    - image/jpeg
+    - 18368
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:46:39.000000000 Z
+    - 2013-05-21 18:46:39.000000000 Z
+  - - 750
+    - 19.jpg
+    - image/jpeg
+    - 20201
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:46:48.000000000 Z
+    - 2013-05-21 18:46:48.000000000 Z
+  - - 751
+    - 20.jpg
+    - image/jpeg
+    - 13571
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:47:00.000000000 Z
+    - 2013-05-21 18:47:00.000000000 Z
+  - - 752
+    - 21.jpg
+    - image/jpeg
+    - 12894
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:47:10.000000000 Z
+    - 2013-05-21 18:47:10.000000000 Z
+  - - 753
+    - 22.jpg
+    - image/jpeg
+    - 15766
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:47:24.000000000 Z
+    - 2013-05-21 18:47:24.000000000 Z
+  - - 754
+    - 23.jpg
+    - image/jpeg
+    - 24038
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:47:40.000000000 Z
+    - 2013-05-21 18:47:40.000000000 Z
+  - - 755
+    - 24.jpg
+    - image/jpeg
+    - 20112
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:47:49.000000000 Z
+    - 2013-05-21 18:47:49.000000000 Z
+  - - 756
+    - 25.jpg
+    - image/jpeg
+    - 31939
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:03.000000000 Z
+    - 2013-05-21 18:48:03.000000000 Z
+  - - 757
+    - 26.jpg
+    - image/jpeg
+    - 29544
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:12.000000000 Z
+    - 2013-05-21 18:48:12.000000000 Z
+  - - 758
+    - 27.jpg
+    - image/jpeg
+    - 33804
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:24.000000000 Z
+    - 2013-05-21 18:48:24.000000000 Z
+  - - 759
+    - 28.jpg
+    - image/jpeg
+    - 37702
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:34.000000000 Z
+    - 2013-05-21 18:48:34.000000000 Z
+  - - 760
+    - 29.jpg
+    - image/jpeg
+    - 19076
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:47.000000000 Z
+    - 2013-05-21 18:48:47.000000000 Z
+  - - 761
+    - 30.jpg
+    - image/jpeg
+    - 27340
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:48:55.000000000 Z
+    - 2013-05-21 18:48:55.000000000 Z
+  - - 762
+    - 31.jpg
+    - image/jpeg
+    - 27572
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:08.000000000 Z
+    - 2013-05-21 18:49:08.000000000 Z
+  - - 763
+    - 32.jpg
+    - image/jpeg
+    - 31566
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:17.000000000 Z
+    - 2013-05-21 18:49:17.000000000 Z
+  - - 764
+    - 33.jpg
+    - image/jpeg
+    - 17774
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:26.000000000 Z
+    - 2013-05-21 18:49:26.000000000 Z
+  - - 765
+    - 34.jpg
+    - image/jpeg
+    - 22979
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:35.000000000 Z
+    - 2013-05-21 18:49:35.000000000 Z
+  - - 766
+    - 35.jpg
+    - image/jpeg
+    - 22197
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:45.000000000 Z
+    - 2013-05-21 18:49:45.000000000 Z
+  - - 767
+    - 36.jpg
+    - image/jpeg
+    - 20222
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:49:55.000000000 Z
+    - 2013-05-21 18:49:55.000000000 Z
+  - - 768
+    - 37.jpg
+    - image/jpeg
+    - 33876
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:50:03.000000000 Z
+    - 2013-05-21 18:50:03.000000000 Z
+  - - 769
+    - 38.jpg
+    - image/jpeg
+    - 18783
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:50:12.000000000 Z
+    - 2013-05-21 18:50:12.000000000 Z
+  - - 770
+    - 39.jpg
+    - image/jpeg
+    - 19381
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:50:21.000000000 Z
+    - 2013-05-21 18:50:21.000000000 Z
+  - - 771
+    - 40.jpg
+    - image/jpeg
+    - 28197
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:50:37.000000000 Z
+    - 2013-05-21 18:50:37.000000000 Z
+  - - 772
+    - 1.jpg
+    - image/jpeg
+    - 16847
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:52:12.000000000 Z
+    - 2013-05-21 18:52:12.000000000 Z
+  - - 773
+    - 2.jpg
+    - image/jpeg
+    - 12483
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:52:19.000000000 Z
+    - 2013-05-21 18:52:19.000000000 Z
+  - - 774
+    - 3.jpg
+    - image/jpeg
+    - 23676
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:52:30.000000000 Z
+    - 2013-05-21 18:52:30.000000000 Z
+  - - 775
+    - 4.jpg
+    - image/jpeg
+    - 11977
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:52:44.000000000 Z
+    - 2013-05-21 18:52:44.000000000 Z
+  - - 776
+    - 5.jpg
+    - image/jpeg
+    - 22505
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:52:55.000000000 Z
+    - 2013-05-21 18:52:55.000000000 Z
+  - - 777
+    - 6.jpg
+    - image/jpeg
+    - 18030
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:03.000000000 Z
+    - 2013-05-21 18:53:03.000000000 Z
+  - - 778
+    - 7.jpg
+    - image/jpeg
+    - 13748
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:15.000000000 Z
+    - 2013-05-21 18:53:15.000000000 Z
+  - - 779
+    - 8.jpg
+    - image/jpeg
+    - 19193
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:26.000000000 Z
+    - 2013-05-21 18:53:26.000000000 Z
+  - - 780
+    - 9.jpg
+    - image/jpeg
+    - 13525
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:34.000000000 Z
+    - 2013-05-21 18:53:34.000000000 Z
+  - - 781
+    - 10.jpg
+    - image/jpeg
+    - 12787
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:41.000000000 Z
+    - 2013-05-21 18:53:41.000000000 Z
+  - - 782
+    - 11.jpg
+    - image/jpeg
+    - 14193
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:50.000000000 Z
+    - 2013-05-21 18:53:50.000000000 Z
+  - - 783
+    - 12.jpg
+    - image/jpeg
+    - 15499
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:53:57.000000000 Z
+    - 2013-05-21 18:53:57.000000000 Z
+  - - 784
+    - 13.jpg
+    - image/jpeg
+    - 16825
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:06.000000000 Z
+    - 2013-05-21 18:54:06.000000000 Z
+  - - 785
+    - 14.jpg
+    - image/jpeg
+    - 16170
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:14.000000000 Z
+    - 2013-05-21 18:54:14.000000000 Z
+  - - 786
+    - 15.jpg
+    - image/jpeg
+    - 11485
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:21.000000000 Z
+    - 2013-05-21 18:54:21.000000000 Z
+  - - 787
+    - 16.jpg
+    - image/jpeg
+    - 20177
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:30.000000000 Z
+    - 2013-05-21 18:54:30.000000000 Z
+  - - 788
+    - 17.jpg
+    - image/jpeg
+    - 19023
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:38.000000000 Z
+    - 2013-05-21 18:54:38.000000000 Z
+  - - 789
+    - 18.jpg
+    - image/jpeg
+    - 14683
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:45.000000000 Z
+    - 2013-05-21 18:54:45.000000000 Z
+  - - 790
+    - 19.jpg
+    - image/jpeg
+    - 15263
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:54:53.000000000 Z
+    - 2013-05-21 18:54:53.000000000 Z
+  - - 791
+    - 20.jpg
+    - image/jpeg
+    - 21523
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:06.000000000 Z
+    - 2013-05-21 18:55:06.000000000 Z
+  - - 792
+    - 21.jpg
+    - image/jpeg
+    - 22517
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:15.000000000 Z
+    - 2013-05-21 18:55:15.000000000 Z
+  - - 793
+    - 22.jpg
+    - image/jpeg
+    - 20878
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:23.000000000 Z
+    - 2013-05-21 18:55:23.000000000 Z
+  - - 794
+    - 23.jpg
+    - image/jpeg
+    - 18665
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:33.000000000 Z
+    - 2013-05-21 18:55:33.000000000 Z
+  - - 795
+    - 24.jpg
+    - image/jpeg
+    - 27499
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:42.000000000 Z
+    - 2013-05-21 18:55:42.000000000 Z
+  - - 796
+    - 25.jpg
+    - image/jpeg
+    - 23645
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:55:51.000000000 Z
+    - 2013-05-21 18:55:51.000000000 Z
+  - - 797
+    - 26.jpg
+    - image/jpeg
+    - 23280
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:03.000000000 Z
+    - 2013-05-21 18:56:03.000000000 Z
+  - - 798
+    - 27.jpg
+    - image/jpeg
+    - 23928
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:13.000000000 Z
+    - 2013-05-21 18:56:13.000000000 Z
+  - - 799
+    - 28.jpg
+    - image/jpeg
+    - 20142
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:21.000000000 Z
+    - 2013-05-21 18:56:21.000000000 Z
+  - - 800
+    - 29.jpg
+    - image/jpeg
+    - 26271
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:29.000000000 Z
+    - 2013-05-21 18:56:29.000000000 Z
+  - - 801
+    - 30.jpg
+    - image/jpeg
+    - 18514
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:38.000000000 Z
+    - 2013-05-21 18:56:38.000000000 Z
+  - - 802
+    - 31.jpg
+    - image/jpeg
+    - 12900
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:47.000000000 Z
+    - 2013-05-21 18:56:47.000000000 Z
+  - - 803
+    - 32.jpg
+    - image/jpeg
+    - 14672
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:56:58.000000000 Z
+    - 2013-05-21 18:56:58.000000000 Z
+  - - 804
+    - 33.jpg
+    - image/jpeg
+    - 15179
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:57:09.000000000 Z
+    - 2013-05-21 18:57:09.000000000 Z
+  - - 805
+    - 34.jpg
+    - image/jpeg
+    - 15613
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:57:18.000000000 Z
+    - 2013-05-21 18:57:18.000000000 Z
+  - - 806
+    - 35.jpg
+    - image/jpeg
+    - 35400
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:57:29.000000000 Z
+    - 2013-05-21 18:57:29.000000000 Z
+  - - 807
+    - 36.jpg
+    - image/jpeg
+    - 21846
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:57:39.000000000 Z
+    - 2013-05-21 18:57:39.000000000 Z
+  - - 808
+    - 37.jpg
+    - image/jpeg
+    - 26474
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:57:50.000000000 Z
+    - 2013-05-21 18:57:50.000000000 Z
+  - - 809
+    - 38.jpg
+    - image/jpeg
+    - 30692
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:58:02.000000000 Z
+    - 2013-05-21 18:58:02.000000000 Z
+  - - 810
+    - 39.jpg
+    - image/jpeg
+    - 29004
+    - 1
+    - User
+    - Ckeditor::Picture
+    - 2013-05-21 18:58:11.000000000 Z
+    - 2013-05-21 18:58:11.000000000 Z
 
 ---
 news:
@@ -29668,6 +30419,1322 @@ rails_admin_histories:
     - 
     - 2013-05-21 18:18:06.000000000 Z
     - 2013-05-21 18:18:06.000000000 Z
+  - - 332
+    - 'body: "<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<rbody>
+      </rbody></p>\r\n<table class=\"table table-bordered flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
+      &lsquo;Rhythm and Beat&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/363/content_mnogoletniki_html_m791efaee.jpg?1335859902\"
+      style=\"width: 250px; height: 382px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      85 см.<br />\r\n\t\t\t\t\tШирина:50-60 см.<br />\r\n\t\t\t\t\tСроки цветения:
+      средние.<br />\r\n\t\t\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
+      &lsquo;Fanal&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/364/content_mnogoletniki_html_m7757c7f9.jpg?1335859919\"
+      style=\"width: 250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      60 см.<br />\r\n\t\t\t\t\tЦвет: темно-красная окраска цветков.<br />\r\n\t\t\t\t\tЦветет:
+      с июня по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
+      &lsquo;Washington&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/365/content_mnogoletniki_html_59ebd9ca.jpg?1335859933\"
+      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      60 см.<br />\r\n\t\t\t\t\tЦвет: Соцветие ромбическое, белого цвета.<br />\r\n\t\t\t\t\tЦветение:
+      июль.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАСТИЛЬБА
+      &lsquo;Straussenfeder&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/366/content_mnogoletniki_html_72d79b64.jpg?1335859945\"
+      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      80-90 см.<br />\r\n\t\t\t\t\tЦвет: кораллово-розовый лососево-розовые.<br />\r\n\t\t\t\t\tЦветение:
+      июль-август.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛИЛЕЙНИК
+      &lsquo;Children&rsquo;s Festival&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/367/content_mnogoletniki_html_59c77f3a.jpg?1335859957\"
+      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      40-60 см.<br />\r\n\t\t\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\t\t\tЦвет:
+      Розово-кремовый цветок с абрикосовым горлом.<br />\r\n\t\t\t\t\tЦветение: июнь-июль.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛИЛЕЙНИК
+      &lsquo;Gentle Shepherd&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/368/content_mnogoletniki_html_19a0447b.jpg?1335859970\"
+      style=\"width: 250px; height: 168px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      до 70 см<br />\r\n\t\t\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\t\t\tЦвет:
+      розовато-белые, с небольшим светло-зеленым горлышком<br />\r\n\t\t\t\t\tЦветение:
+      среднего срока цветения</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tХОСТА
+      fortunei &lsquo;Albopicta&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/369/content_mnogoletniki_html_m141f941a.jpg?1335859981\"
+      style=\"width: 250px; height: 245px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      60-70 см<br />\r\n\t\t\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\t\t\tЦветки:
+      Светло-фиолетовые<br />\r\n\t\t\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\t\t\tСрок
+      цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tХОСТА
+      fortunei &lsquo;Patriot&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/401/content_1.jpg?1336928787\" style=\"width:
+      250px; height: 221px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      35-45 см<br />\r\n\t\t\t\t\tЛистья: Тёмно-зелёные листья с<br />\r\n\t\t\t\t\tширокой
+      зубчатой белой каймой<br />\r\n\t\t\t\t\tЦветки: лавандовые</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
+      &lsquo;Blue King&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/402/content_5.jpg?1336928804\" style=\"width:
+      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      до 60 см<br />\r\n\t\t\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\t\t\tВремя
+      цветения: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
+      &lsquo;pseudacorus&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/403/content_2.jpg?1336928826\" style=\"width:
+      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      60-100 см<br />\r\n\t\t\t\t\tОкраска цветов: желтые<br />\r\n\t\t\t\t\tВремя
+      цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
+      &lsquo;White Swirl&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/404/content_4.jpg?1336928840\" style=\"width:
+      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      120см<br />\r\n\t\t\t\t\tОкраска цветов: белые<br />\r\n\t\t\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tИРИС
+      &lsquo;setosa nana&rsquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/405/content_3.jpg?1336928880\" style=\"width:
+      250px; height: 333px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      60 см<br />\r\n\t\t\t\t\tОкраска цветов: голубые<br />\r\n\t\t\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПеларгония
+      Ева</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/407/content_html_6cde39cd.jpg?1337658540\" style=\"width:
+      250px; height: 279px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПеларгония
+      бланка</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/406/content_html_2b726463.jpg?1337658525\" style=\"width:
+      250px; height: 195px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tДельфиниум</h3>\r\n\t\t\t\t<p
+      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/408/content_.jpg.?1337659383\"
+      style=\"width: 250px; height: 328px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tДельфиниум</h3>\r\n\t\t\t\t<p
+      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/409/content_1.jpg?1337659398\"
+      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЛаванда</h3>\r\n\t\t\t\t<p
+      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/410/content_.jpg.?1337659421\"
+      style=\"width: 250px; height: 188px; \" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПлатикодон</h3>\r\n\t\t\t\t<p
+      class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\" src=\"/ckeditor_assets/pictures/411/content_.jpg.?1337659439\"
+      style=\"width: 250px; height: 192px; \" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a
+      href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n"
+      -> "<h2>Пеларгония</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br
+      />\r\n\t\t\tнасыщенно-лососевая.<br />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие
+      цветы, основной тон красно-малиновый, на верхних лепестках красные блики.В центре
+      маленький белый глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия
+      очень большие и плотные. Лепестки белые с лососевым центром. Компактный кустик
+      весь покрывается огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной
+      малиновой окраской крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой
+      окраски собраны в крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_5.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый,
+      крупный, очень красивого насыщенного фиолетового цвета по краям и более темного
+      в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_1(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br
+      />\r\n\t\t\tЦвет: желтый<br />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      40-60 см<br />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый
+      цветок<br />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 70 см<br />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые,
+      с небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      65 см<br />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60 &mdash; 80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_6(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      17 см<br />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с
+      золотистыми краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_7.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      12-14 см<br />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      14 см<br />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Многолетники_files/content_9.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота: 65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 60 см<br />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White Swirl</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br
+      />\r\n\t\t\tОкраска цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(2).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60 см<br />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_7(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см<br />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br
+      />\r\n\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: темно-красная окраска цветков<br />\r\n\t\t\tЦветет: с июня
+      по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: Соцветие ромбическое,белого цвета<br />\r\n\t\t\tЦветение:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4(3).jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br
+      />\r\n\t\t\tЦвет: кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение:
+      июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(4).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br />\r\n\t\t\tЛистья:
+      Тёмно-зелёные листья с широкой зубчатой белой каймой<br />\r\n\t\t\tЦветки:
+      лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(4).jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(4).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-70 см<br />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(4).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера PALACE
+      PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(5).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_3(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(5).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_7(2).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_9(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ ТРАВА Т15
+      patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"'
+    - info@niksan.ru
+    - 48
+    - Article
+    - 
+    - 
+    - 2013-05-21 18:38:42.000000000 Z
+    - 2013-05-21 18:38:42.000000000 Z
+  - - 333
+    - 'body: "<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>\r\n<table
+      class=\"table table-bordered flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Браво lavender</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/377/content_18.jpg?1336924149\" style=\"width:
+      250px; height: 176px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
+      см<br />\r\n\t\t\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Браво white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/378/content_13.jpg?1336924177\" style=\"width:
+      250px; height: 257px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Браво pink veined</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/379/content_22.jpg?1336924216\" style=\"width:
+      250px; height: 300px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      25-30 см<br />\r\n\t\t\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      лавина розовая</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/380/content_2.jpg?1336924241\" style=\"width:
+      250px; height: 338px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      50 см<br />\r\n\t\t\t\t\tДиаметр: 7 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Браво silver veined</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/381/content_1.jpg?1336924267\" style=\"width:
+      250px; height: 323px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
+      см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/382/content_7.jpg?1336924291\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:15-20
+      см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Браво skay blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/383/content_28.jpg?1336924330\" style=\"width:
+      250px; height: 185px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20см<br />\r\n\t\t\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо red</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/384/content_27.jpg?1336924373\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо burgundy</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/385/content_12.jpg?1336924407\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      25-30 см<br />\r\n\t\t\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Мамбо salmon</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/371/content_petuniya_1_html_m3074a36e.gif\"
+      style=\"width: 250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      20 см<br />\r\n\t\t\t\t\tДиаметр: до9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо rose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/386/content_4.jpg?1336924597\" style=\"width:
+      250px; height: 377px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      20-25 см<br />\r\n\t\t\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Мамбо white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/372/content_petuniya_1_html_31d02edd.gif\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      20-25 см<br />\r\n\t\t\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо salmon</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/387/content_16.jpg?1336924688\" style=\"width:
+      250px; height: 281px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Мамбо blue</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/388/content_30.jpg?1336924714\" style=\"width:
+      250px; height: 283px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Лимбо white</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/389/content_11.jpg?1336924750\" style=\"width:
+      250px; height: 323px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Мамбо red</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/390/content_3.jpg?1336924773\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Мамбо rose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/391/content_10.jpg?1336924800\" style=\"width:
+      250px; height: 281px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20 см<br />\r\n\t\t\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЦинерария
+      приморская &quot;Сильверадо&rdquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/374/content_petuniya_1_html_m8f61571.gif\"
+      style=\"width: 250px; height: 265px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      25 см<br />\r\n\t\t\t\t\tОкраска листьев: серебристая</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tТагетес
+      Антигуа orange</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/375/content_petuniya_1_html_m33ef009c.gif\"
+      style=\"width: 250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      20 см<br />\r\n\t\t\t\t\tСоцветия: 6-13 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tАгератум
+      Хоустона &quot;Дануб&quot;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/354/content_odnoletniki_na_sayt_html_210fa650.jpg?1335855828\"
+      style=\"width: 251px; height: 266px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tТагетес
+      Антигуа primrose</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/376/content_petuniya_1_html_m527ab26e.gif\"
+      style=\"width: 250px; height: 322px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота
+      растений, см: 20-25<br />\r\n\t\t\t\t\tСоцветие: до 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tКолеус
+      Блек Драгон</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/393/content_24.jpg?1336924965\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      30-35 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tЦинерария
+      приморская &quot;Сильвер Даст&rdquo;</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/373/content_petuniya_1_html_104be66f.gif\"
+      style=\"width: 250px; height: 265px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:
+      20 см<br />\r\n\t\t\t\t\tОкраска листьев: серебристо-серая.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tКолеус
+      Визард Скарлет</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img
+      alt=\"\" src=\"/ckeditor_assets/pictures/394/content_25.jpg?1336925039\" style=\"width:
+      250px; height: 241px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:30-35
+      см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<h2>\r\n\tПетуния
+      гибридная многоцветковая низкорослая</h2>\r\n<table class=\"table table-bordered
+      flowers\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Анжелика</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/395/content_6.jpg?1336925071\" style=\"width:
+      250px; height: 261px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      сильвия</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/396/content_29.jpg?1336925097\" style=\"width:
+      250px; height: 274px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Марика</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/397/content_14.jpg?1336925120\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Андреа</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/398/content_15.jpg?1336925145\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Рита</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/399/content_21.jpg?1336925188\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,&nbsp;<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tПетуния
+      Иветта</h3>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\t<img alt=\"\"
+      src=\"/ckeditor_assets/pictures/400/content_17.jpg?1336925238\" style=\"width:
+      250px; height: 250px; \" /></p>\r\n\t\t\t\t<p class=\"without_indent\">\r\n\t\t\t\t\tВысота:&nbsp;30-35&nbsp;см,&nbsp;<br
+      />\r\n\t\t\t\t\t&nbsp;Диаметр:5,5-6,5&nbsp;см,</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n<h3>\r\n\t<a
+      href=\"/articles/20-prays-list\">Прайс-лист</a></h3>\r\n<p>\r\n\t&nbsp;</p>"
+      -> "<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво lavender</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:15-20 см<br />\r\n\t\t\tДиаметр:
+      8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния крупноцветковая
+      Браво Алладин Черри</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_2.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 10-12 см<br
+      />\r\n\t\t\tОкраска вишневая.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво pink veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_3.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр:
+      10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния крупноцветковая
+      Браво burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_4.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Браво silver veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_5.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Фриллитуния Burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_6.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния крупноцветковая Ultra burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_12.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо white</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_13.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_14.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_15.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      20-25 см<br />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо salmon​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_16.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 20 см<br />\r\n\t\t\tДиаметр: до 9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо white​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_17.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br />\r\n\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_18.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния Мамбо red​</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_19.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Кан
+      Кан hariequin cherry rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_20.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>крупноцветковая петуния с бархатными кружевными
+      цветами.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Халахуп
+      blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_21.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      10-15 см<br />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния&nbsp;Халахуп burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_22.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Ранняя крупноцветковая
+      петуния с ободком.<br />\r\n\t\t\tВысота: 10-15 см<br />\r\n\t\t\tДиаметр цветка
+      составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Петуния
+      ампельная</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Easy
+      Wave Plum Vein</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_23.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Pink morn</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_24.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>White</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_25.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Колеус
+      Визард</h2>\r\n\r\n<p>30-35 см высотой и 25-30 см шириной. Компактные, яркие
+      растения, со средним размером базальных листьев</p>\r\n\r\n<table class=\"flowers
+      table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pineapple</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_26.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Scarlet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>velvet
+      red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_28.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Колеус
+      Блек Драгон</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_29.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      30-35 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Тагетес</h2>\r\n\r\n<p>​Серия
+      из четырех колеров, генетически низкое растение высотой 25-30 см. Махровые цветки
+      до 10 см в диаметре.</p>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      mix</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_32.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      primrose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_33.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      gold​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_34.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота
+      30 см<br />\r\n\t\t\tДиаметр 9 см<br />\r\n\t\t\tЦветки обладают невероятным
+      ароматом</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан yellow</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_35.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Ипомея</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Purple</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_36.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet Caroline Light Green</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_37.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Бальзамин</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Tenango</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_38.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений:
+      20-25 см<br />\r\n\t\t\tЦветок/ соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Nagena</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_39.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений:
+      20-25 см<br />\r\n\t\t\tЦветок/ соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Лобелия</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Ривьера rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_40.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Маттиола</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Синдерелла pink</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_41.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Цинерария</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Сильверадо</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_42.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Агератум
+      Хоустона &quot;Дануб&quot;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_43.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>САЛЬВИЯ карликовая Reddy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_65.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Формирует компактный
+      кустик, высотой 20-25см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"'
+    - info@niksan.ru
+    - 49
+    - Article
+    - 
+    - 
+    - 2013-05-21 18:39:38.000000000 Z
+    - 2013-05-21 18:39:38.000000000 Z
+  - - 334
+    - 'body: "<h2>Пеларгония</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br
+      />\r\n\t\t\tнасыщенно-лососевая.<br />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие
+      цветы, основной тон красно-малиновый, на верхних лепестках красные блики.В центре
+      маленький белый глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия
+      очень большие и плотные. Лепестки белые с лососевым центром. Компактный кустик
+      весь покрывается огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной
+      малиновой окраской крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой
+      окраски собраны в крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_5.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый,
+      крупный, очень красивого насыщенного фиолетового цвета по краям и более темного
+      в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_1(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br
+      />\r\n\t\t\tЦвет: желтый<br />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      40-60 см<br />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый
+      цветок<br />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 70 см<br />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые,
+      с небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      65 см<br />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60 &mdash; 80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_6(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      17 см<br />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с
+      золотистыми краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_7.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      12-14 см<br />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр:
+      14 см<br />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Многолетники_files/content_9.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота: 65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 60 см<br />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White Swirl</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br
+      />\r\n\t\t\tОкраска цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(2).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60 см<br />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_7(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см<br />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br
+      />\r\n\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: темно-красная окраска цветков<br />\r\n\t\t\tЦветет: с июня
+      по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: Соцветие ромбическое,белого цвета<br />\r\n\t\t\tЦветение:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4(3).jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br
+      />\r\n\t\t\tЦвет: кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение:
+      июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(4).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br />\r\n\t\t\tЛистья:
+      Тёмно-зелёные листья с широкой зубчатой белой каймой<br />\r\n\t\t\tЦветки:
+      лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(4).jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(4).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-70 см<br />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(4).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера PALACE
+      PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(5).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_3(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(5).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_7(2).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_9(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ ТРАВА Т15
+      patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n" -> "<h2>Пеларгония</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/732/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br />\r\n\t\t\tнасыщенно-лососевая.<br
+      />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/733/content_2.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие цветы, основной тон
+      красно-малиновый, на верхних лепестках красные блики.В центре маленький белый
+      глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/734/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия очень большие
+      и плотные. Лепестки белые с лососевым центром. Компактный кустик весь покрывается
+      огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/735/content_4.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной малиновой окраской
+      крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/736/content_5.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой окраски собраны в
+      крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/737/content_6.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый, крупный, очень красивого
+      насыщенного фиолетового цвета по краям и более темного в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/738/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br />\r\n\t\t\tЦвет: желтый<br
+      />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/739/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60 см<br
+      />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый цветок<br
+      />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/740/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 70 см<br
+      />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые, с
+      небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/741/content_10.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 65 см<br
+      />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/742/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 &mdash;
+      80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/743/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 17 см<br
+      />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с золотистыми
+      краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/744/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 12-14 см<br
+      />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/745/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 14 см<br
+      />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/746/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота:
+      65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 60 см<br />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White Swirl</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br
+      />\r\n\t\t\tОкраска цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(2).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60 см<br />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_7(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см<br />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br
+      />\r\n\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: темно-красная окраска цветков<br />\r\n\t\t\tЦветет: с июня
+      по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: Соцветие ромбическое,белого цвета<br />\r\n\t\t\tЦветение:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4(3).jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br
+      />\r\n\t\t\tЦвет: кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение:
+      июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(4).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br />\r\n\t\t\tЛистья:
+      Тёмно-зелёные листья с широкой зубчатой белой каймой<br />\r\n\t\t\tЦветки:
+      лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(4).jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(4).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-70 см<br />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(4).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера PALACE
+      PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(5).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_3(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(5).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_7(2).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_9(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ ТРАВА Т15
+      patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"'
+    - info@niksan.ru
+    - 48
+    - Article
+    - 
+    - 
+    - 2013-05-21 18:46:06.000000000 Z
+    - 2013-05-21 18:46:06.000000000 Z
+  - - 335
+    - 'body: "<h2>Пеларгония</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/732/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br />\r\n\t\t\tнасыщенно-лососевая.<br
+      />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/733/content_2.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие цветы, основной тон
+      красно-малиновый, на верхних лепестках красные блики.В центре маленький белый
+      глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/734/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия очень большие
+      и плотные. Лепестки белые с лососевым центром. Компактный кустик весь покрывается
+      огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/735/content_4.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной малиновой окраской
+      крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/736/content_5.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой окраски собраны в
+      крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/737/content_6.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый, крупный, очень красивого
+      насыщенного фиолетового цвета по краям и более темного в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/738/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br />\r\n\t\t\tЦвет: желтый<br
+      />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/739/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60 см<br
+      />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый цветок<br
+      />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/740/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 70 см<br
+      />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые, с
+      небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/741/content_10.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 65 см<br
+      />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/742/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 &mdash;
+      80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/743/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 17 см<br
+      />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с золотистыми
+      краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/744/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 12-14 см<br
+      />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/745/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 14 см<br
+      />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/746/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота:
+      65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      до 60 см<br />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White Swirl</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br
+      />\r\n\t\t\tОкраска цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(2).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60 см<br />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения:
+      май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(2).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(2).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_7(1).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_1(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      85 см<br />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br
+      />\r\n\t\t\tЦвет: Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: темно-красная окраска цветков<br />\r\n\t\t\tЦветет: с июня
+      по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_3(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tЦвет: Соцветие ромбическое,белого цвета<br />\r\n\t\t\tЦветение:
+      июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_4(3).jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br
+      />\r\n\t\t\tЦвет: кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение:
+      июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(4).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br />\r\n\t\t\tЛистья:
+      Тёмно-зелёные листья с широкой зубчатой белой каймой<br />\r\n\t\t\tЦветки:
+      лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_2(4).jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_3(4).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-70 см<br />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(4).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_1(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера PALACE
+      PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_2(5).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_3(5).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_4(5).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_5(3).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Многолетники_files/content_6(3).jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Многолетники_files/content_7(2).jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_8(1).jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_9(1).jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ ТРАВА Т15
+      patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Многолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота:
+      до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n" -> "<h2>Пеларгония</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bergpalais</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/732/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Окраска цветков:<br />\r\n\t\t\tнасыщенно-лососевая.<br
+      />\r\n\t\t\tПлотная с крупными соцветиями</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Foxy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/733/content_2.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Полумахровые яркие цветы, основной тон
+      красно-малиновый, на верхних лепестках красные блики.В центре маленький белый
+      глазок.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Salmon
+      Queen</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/734/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Соцветия очень большие
+      и плотные. Лепестки белые с лососевым центром. Компактный кустик весь покрывается
+      огромными шапочками</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Eva</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/735/content_4.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Сорт с яркой, насыщенной малиновой окраской
+      крупных соцветий, с выразительным рисунком на листьях.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blanca</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/736/content_5.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Цветки чистой белой окраски собраны в
+      крупные, шаровидные соцветия.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Violet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/737/content_6.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Цветок полу махровый, крупный, очень красивого
+      насыщенного фиолетового цвета по краям и более темного в середине.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Лилейники</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Bitsy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/738/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60см<br />\r\n\t\t\tЦвет: желтый<br
+      />\r\n\t\t\tЦветки: 4-7 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Children&rsquo;s
+      Festival</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/739/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-60 см<br
+      />\r\n\t\t\tДиаметр цветка: 11 см.<br />\r\n\t\t\tЦвет: Розово-кремовый цветок<br
+      />\r\n\t\t\tс абрикосовым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Gentle
+      Shepherd</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/740/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 70 см<br
+      />\r\n\t\t\tДиаметр цветка: до 13 см<br />\r\n\t\t\tЦвет: розовато-белые, с
+      небольшим<br />\r\n\t\t\tсветло-зеленым горлышком</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>CHERRY
+      VALENTINE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/741/content_10.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 65 см<br
+      />\r\n\t\t\tЦветки: 10 см в диаметре</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARE
+      TO LOVE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/742/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 &mdash;
+      80 см.<br />\r\n\t\t\tС легкой гофрировкой. Запах слабый.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>DARLA
+      ANITA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/743/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 17 см<br
+      />\r\n\t\t\tВысота: 75 см<br />\r\n\t\t\tЦвет: лилово-лавандовый с золотистыми
+      краями лепестков и желтым горлом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>DOUBLE
+      RED ROYALE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/744/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 12-14 см<br
+      />\r\n\t\t\tВысота: 70-75 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>MOUNT
+      HELENA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/745/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 14 см<br
+      />\r\n\t\t\tВысота: 50-60 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>ROYAL BRAID</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/746/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 13 см Высота:
+      65 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Ирисы</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Blue
+      King</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/747/content_16.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: до 60 см<br
+      />\r\n\t\t\tОкраска цветов: темно-синие<br />\r\n\t\t\tВремя цветения: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>White
+      Swirl</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/748/content_17.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 120см<br
+      />\r\n\t\t\tОкраска цветов: белые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pseudacorus</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/749/content_18.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-100 см<br />\r\n\t\t\tОкраска
+      цветов: желтые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>setosa
+      nana</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/750/content_19.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 60 см<br
+      />\r\n\t\t\tОкраска цветов: голубые<br />\r\n\t\t\tВремя цветения: май-июнь</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>SCATING
+      PARTY</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/751/content_20.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 85 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>GERMANICA
+      APACHE WARRIOR</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/752/content_21.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br
+      />\r\n\t\t\tВысота: 100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>GERMANICA OCTOBER SUN</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/753/content_22.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Диаметр: 8-15 см<br />\r\n\t\t\tВысота:
+      100-150 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Астильба</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Rhythm
+      and Beat</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/754/content_23.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 85 см<br
+      />\r\n\t\t\tШирина:50-60 см<br />\r\n\t\t\tСроки цветения: средние<br />\r\n\t\t\tЦвет:
+      Темно-розовые с фиолетовым оттенком соцветия</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Fanal</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/755/content_24.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br />\r\n\t\t\tЦвет: темно-красная
+      окраска цветков<br />\r\n\t\t\tЦветет: с июня по июль.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Washington</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/756/content_25.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60 см<br />\r\n\t\t\tЦвет: Соцветие
+      ромбическое,белого цвета<br />\r\n\t\t\tЦветение: июль</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Straussenfeder</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/757/content_26.jpg\" style=\"height:250px;
+      width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-90 см<br />\r\n\t\t\tЦвет:
+      кораллово-розовый лососево-розовые<br />\r\n\t\t\tЦветение: июль-август</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Хосты</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Patriot&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/758/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 35-45 см<br
+      />\r\n\t\t\tЛистья: Тёмно-зелёные листья с широкой зубчатой белой каймой<br
+      />\r\n\t\t\tЦветки: лавандовые</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>fortunei
+      &#39;Albopicta&#39;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/759/content_28.jpg\"
+      style=\"height:250px; width:255px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tШирина растения: 100-115 см<br />\r\n\t\t\tЦветки: Светло-фиолетовые<br
+      />\r\n\t\t\tВысота цветоноса: до 100 см<br />\r\n\t\t\tСрок цветения: Июнь-июль</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>TRUE
+      BLUE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/760/content_29.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-70 см<br
+      />\r\n\t\t\tОкраска листвы: Зеленовато-сизая</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ALBO
+      MARGINATA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/761/content_30.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      BRIZODES PLUIE DE FEU</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/762/content_31.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Гейхера
+      PALACE PURPLE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/763/content_32.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      BARLOW BLACK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/764/content_33.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Водосборник
+      MIX</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/765/content_34.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 40-50 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Аквилегия
+      NORA BARLOW</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/766/content_35.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/767/content_36.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 70 см<br
+      />\r\n\t\t\tЦветки розовые,плоские,сердцевидные</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Дицентра
+      SPECTABILIS ALBA</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/768/content_37.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 60-80 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA PINK</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/769/content_38.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: 80-250 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>ШТОК-РОЗА
+      ROSEA WHITE</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/770/content_39.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 80-250 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>ПАМПАСНАЯ
+      ТРАВА Т15 patiobox</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/771/content_40.jpg\"
+      style=\"height:250px; width:250px\" />​</p>\r\n\r\n\t\t\t<p>Высота: до 3 м</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"'
+    - info@niksan.ru
+    - 48
+    - Article
+    - 
+    - 
+    - 2013-05-21 18:50:42.000000000 Z
+    - 2013-05-21 18:50:42.000000000 Z
+  - - 336
+    - 'body: "<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво lavender</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_1.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:15-20 см<br />\r\n\t\t\tДиаметр:
+      8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния крупноцветковая
+      Браво Алладин Черри</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_2.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 10-12 см<br
+      />\r\n\t\t\tОкраска вишневая.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво pink veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_3.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр:
+      10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния крупноцветковая
+      Браво burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_4.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Браво silver veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_5.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Фриллитуния Burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_6.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния крупноцветковая Ultra burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_10.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_12.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо white</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_13.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_14.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_15.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      20-25 см<br />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо salmon​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_16.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 20 см<br />\r\n\t\t\tДиаметр: до 9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо white​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_17.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br />\r\n\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_18.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния Мамбо red​</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_19.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Кан
+      Кан hariequin cherry rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_20.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>крупноцветковая петуния с бархатными кружевными
+      цветами.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Халахуп
+      blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_21.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      10-15 см<br />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния&nbsp;Халахуп burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_22.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Ранняя крупноцветковая
+      петуния с ободком.<br />\r\n\t\t\tВысота: 10-15 см<br />\r\n\t\t\tДиаметр цветка
+      составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Петуния
+      ампельная</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Easy
+      Wave Plum Vein</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_23.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Pink morn</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_24.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>White</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_25.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Колеус
+      Визард</h2>\r\n\r\n<p>30-35 см высотой и 25-30 см шириной. Компактные, яркие
+      растения, со средним размером базальных листьев</p>\r\n\r\n<table class=\"flowers
+      table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pineapple</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_26.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Scarlet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>velvet
+      red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_28.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Колеус
+      Блек Драгон</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_29.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:
+      30-35 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Тагетес</h2>\r\n\r\n<p>​Серия
+      из четырех колеров, генетически низкое растение высотой 25-30 см. Махровые цветки
+      до 10 см в диаметре.</p>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      mix</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_32.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      primrose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_33.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      gold​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  -
+      Однолетники_files/content_34.jpg\" style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота
+      30 см<br />\r\n\t\t\tДиаметр 9 см<br />\r\n\t\t\tЦветки обладают невероятным
+      ароматом</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан yellow</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_35.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Ипомея</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Purple</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия ландшафтного
+      дизайна  Эдем  - Однолетники_files/content_36.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet Caroline Light Green</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_37.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Бальзамин</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Tenango</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_38.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений:
+      20-25 см<br />\r\n\t\t\tЦветок/ соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Nagena</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_39.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений:
+      20-25 см<br />\r\n\t\t\tЦветок/ соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Лобелия</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Ривьера rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_40.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Маттиола</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Синдерелла pink</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_41.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Цинерария</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Сильверадо</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_42.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Агератум
+      Хоустона &quot;Дануб&quot;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"./Студия
+      ландшафтного дизайна  Эдем  - Однолетники_files/content_43.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>САЛЬВИЯ карликовая Reddy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"./Студия ландшафтного дизайна  Эдем  - Однолетники_files/content_65.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Формирует компактный
+      кустик, высотой 20-25см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"
+      -> "<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво lavender</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/772/content_1.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота:15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво Алладин Черри</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/773/content_2.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см<br />\r\n\t\t\tОкраска вишневая.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво pink veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/774/content_3.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      крупноцветковая Браво burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/775/content_4.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Браво silver veined</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/776/content_5.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Фриллитуния Burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/777/content_6.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния крупноцветковая Ultra burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/778/content_7.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br />\r\n\t\t\tДиаметр:
+      10-12 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/779/content_8.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 8-12 см.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/780/content_9.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо white</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/781/content_10.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо burgundy</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/782/content_11.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 25-30 см<br
+      />\r\n\t\t\tДиаметр: 5-10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Лимбо rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/783/content_12.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br
+      />\r\n\t\t\tДиаметр: 8-10 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо salmon​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/784/content_13.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20 см<br
+      />\r\n\t\t\tДиаметр: до 9 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо white​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/785/content_14.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 20-25 см<br
+      />\r\n\t\t\tДиаметр: 6-7см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния
+      Мамбо blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/786/content_15.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br
+      />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния Мамбо red​</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/787/content_16.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см<br />\r\n\t\t\tДиаметр: 10 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Кан
+      Кан hariequin cherry rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/788/content_17.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>крупноцветковая петуния
+      с бархатными кружевными цветами.</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Петуния&nbsp;Халахуп
+      blue</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/789/content_18.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 10-15 см<br
+      />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Петуния&nbsp;Халахуп burgundy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/790/content_19.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Ранняя крупноцветковая петуния с ободком.<br
+      />\r\n\t\t\tВысота: 10-15 см<br />\r\n\t\t\tДиаметр цветка составляет 7,5 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Петуния
+      ампельная</h2>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Easy
+      Wave Plum Vein</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/791/content_20.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Pink
+      morn</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/792/content_21.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>White</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/793/content_22.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Колеус
+      Визард</h2>\r\n\r\n<p>30-35 см высотой и 25-30 см шириной. Компактные, яркие
+      растения, со средним размером базальных листьев</p>\r\n\r\n<table class=\"flowers
+      table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>pineapple</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/794/content_23.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Scarlet</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/795/content_24.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>velvet
+      red</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/796/content_25.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Колеус
+      Блек Драгон</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/797/content_26.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 30-35 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Тагетес</h2>\r\n\r\n<p>​Серия
+      из четырех колеров, генетически низкое растение высотой 25-30 см. Махровые цветки
+      до 10 см в диаметре.</p>\r\n\r\n<table class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      mix</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/798/content_27.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Антигуа
+      primrose</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/799/content_28.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      gold​</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/800/content_29.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Тайшан
+      yellow</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/801/content_30.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота 30 см<br />\r\n\t\t\tДиаметр
+      9 см<br />\r\n\t\t\tЦветки обладают невероятным ароматом</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Ипомея</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Purple</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/802/content_31.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Sweet
+      Caroline Light Green</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/803/content_32.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Бальзамин</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Tenango</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/804/content_33.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений: 20-25 см<br />\r\n\t\t\tЦветок/
+      соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Nagena</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/805/content_34.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота растений: 20-25 см<br />\r\n\t\t\tЦветок/
+      соцветие: до 4 см</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Лобелия</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Ривьера rose</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/806/content_35.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Маттиола</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>Синдерелла pink</h3>\r\n\r\n\t\t\t<p><img alt=\"\"
+      src=\"/ckeditor_assets/pictures/807/content_36.jpg\" style=\"height:250px; width:250px\"
+      /></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>​</p>\r\n\r\n<h2>Цинерария</h2>\r\n\r\n<table
+      class=\"flowers table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<h3>Сильверадо</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/808/content_37.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<h3>Агератум Хоустона
+      &quot;Дануб&quot;</h3>\r\n\r\n\t\t\t<p><img alt=\"\" src=\"/ckeditor_assets/pictures/809/content_38.jpg\"
+      style=\"height:250px; width:250px\" /></p>\r\n\r\n\t\t\t<p>Высота: 15-20 см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td
+      colspan=\"2\">\r\n\t\t\t<h3>САЛЬВИЯ карликовая Reddy</h3>\r\n\r\n\t\t\t<p><img
+      alt=\"\" src=\"/ckeditor_assets/pictures/810/content_39.jpg\" style=\"height:250px;
+      width:250px\" /></p>\r\n\r\n\t\t\t<p>Формирует компактный кустик, высотой 20-25см.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n"'
+    - info@niksan.ru
+    - 49
+    - Article
+    - 
+    - 
+    - 2013-05-21 18:58:17.000000000 Z
+    - 2013-05-21 18:58:17.000000000 Z
 
 ---
 reviews:
