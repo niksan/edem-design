@@ -23,6 +23,9 @@ gem 'coffee-rails'
 group :development do
   gem 'letter_opener'
   gem 'thin'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'meta_request'
 end
 
 group :assets do
