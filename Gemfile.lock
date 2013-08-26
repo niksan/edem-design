@@ -136,7 +136,6 @@ GEM
     mime-types (1.23)
     mini_portile (0.5.0)
     multi_json (1.7.7)
-    mysql2 (0.3.11)
     nested_form (0.3.2)
     net-scp (1.1.1)
       net-ssh (>= 2.6.5)
@@ -155,6 +154,7 @@ GEM
       cocaine (~> 0.5.0)
       mime-types
     permalink (1.2.1)
+    pg (0.16.0)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -274,9 +274,9 @@ DEPENDENCIES
   json
   letter_opener
   meta_request
-  mysql2
   paperclip
   permalink
+  pg
   rails (= 3.2.13)
   rails_admin
   rspec
