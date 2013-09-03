@@ -6,7 +6,7 @@ class ArticlesController < ApplicationController
 
   def index
     @article = Article.find(44)
-    @childrens = @article.published.children
+    @childrens = @article.children.published
     render :action => 'show'
   end
 
