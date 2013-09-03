@@ -28,6 +28,7 @@ RailsAdmin.config do |config|
       configure :special_offer, :boolean 
       configure :meta_title, :string 
       configure :help_info, :boolean
+      configure :published, :boolean
     list do
       field :title
       field :parent
@@ -51,6 +52,7 @@ RailsAdmin.config do |config|
       end
       field :special_offers, :has_many_association
       field :children, :has_many_association
+      field :published
     end
     create do; end
     update do; end
