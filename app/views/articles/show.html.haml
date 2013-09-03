@@ -1,16 +1,12 @@
 = link_to @article.parent.title, article_permalink(@article.parent.id, 'second_menu'), :class => 'parent_article' unless @article.parent.nil?
-%h1
-  != @article.title
+%h1!= @article.title
 - unless @childrens.empty?
   %ul#subsections
     - @childrens.each do |child|
-      %li
-        = link_to child.title, article_permalink(child.id, 'second_menu')
+      %li= link_to child.title, article_permalink(child.id, 'second_menu')
 != @article.body
 #help_info
-  %span.header
-    Справочная информация
+  %span.header Справочная информация
   %ul
     - @help_info.each do |help_item|
-      %li
-        = link_to help_item.title, article_permalink(help_item.id, 'second_menu')
+      %li= link_to help_item.title, article_permalink(help_item.id, 'second_menu')

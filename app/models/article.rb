@@ -8,6 +8,7 @@ class Article < ActiveRecord::Base
   permalink :title, :to_param => %w(id permalink)
 
   acts_as_nested_set
+  scope :published, where(published: true)
 
   def to_label
     self.title

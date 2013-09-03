@@ -6,7 +6,7 @@ class ArticlesController < ApplicationController
 
   def index
     @article = Article.find(44)
-    @childrens = @article.children
+    @childrens = @article.published.children
     render :action => 'show'
   end
 
@@ -18,7 +18,7 @@ class ArticlesController < ApplicationController
     
     def find_article
       @article = Article.find(params[:id])
-      @childrens = @article.children
+      @childrens = @article.children.published
     end
     
     def find_help_info
