@@ -5,6 +5,7 @@
     - @childrens.each do |child|
       %li= link_to child.title, article_permalink(child.id, 'second_menu')
 != @article.body
+!= render 'portfolio/list', items: @article.portfolio.portfolio_items if @article.portfolio
 #help_info
   %span.header Справочная информация
   %ul

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130903064702) do
+ActiveRecord::Schema.define(:version => 20130903073656) do
 
   create_table "active_admin_comments", :force => true do |t|
     t.string   "resource_id",   :null => false
@@ -59,6 +59,7 @@ ActiveRecord::Schema.define(:version => 20130903064702) do
     t.string   "meta_title",    :default => ""
     t.boolean  "help_info",     :default => false
     t.boolean  "published",     :default => true
+    t.integer  "portfolio_id"
   end
 
   create_table "ckeditor_assets", :force => true do |t|

@@ -13,6 +13,7 @@ RailsAdmin.config do |config|
   end
 
   config.model Article do
+      configure :portfolio, :belongs_to_association 
       configure :parent, :belongs_to_association 
       configure :special_offers, :has_many_association 
       configure :children, :has_many_association
@@ -23,6 +24,7 @@ RailsAdmin.config do |config|
       configure :updated_at, :datetime 
       configure :permalink, :string 
       configure :parent_id, :integer
+      configure :portfolio_id, :integer
       configure :lft, :integer 
       configure :rgt, :integer 
       configure :special_offer, :boolean 
@@ -53,6 +55,7 @@ RailsAdmin.config do |config|
       field :special_offers, :has_many_association
       field :children, :has_many_association
       field :published
+      field :portfolio, :belongs_to_association
     end
     create do; end
     update do; end

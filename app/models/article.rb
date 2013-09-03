@@ -1,6 +1,7 @@
 # encoding: utf-8
 class Article < ActiveRecord::Base
 
+  belongs_to :portfolio
   has_many :special_offers
 
   before_create :set_permalink
