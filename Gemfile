@@ -40,6 +40,6 @@ end
 
 gem 'jquery-rails'
 gem 'unicorn'
-gem 'capistrano'
+gem 'capistrano', '2.15.5'
 gem 'execjs'
 gem 'therubyracer'
