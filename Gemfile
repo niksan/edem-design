@@ -1,45 +1,32 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.13'
-
+gem 'rails', '4.0.1'
 gem 'pg'
+gem 'sass-rails', '~> 4.0.0'
 gem 'haml-rails'
+gem 'devise'
+gem 'cancan'
 gem 'paperclip'
 gem 'ckeditor'
-gem 'gritter_notices'
+gem 'gritter', '1.0.3'
 gem 'permalink'
 gem 'awesome_nested_set'
 gem 'russian'
 gem 'json'
 gem 'rails_admin'
-gem 'devise'
-gem 'cancan'
 gem 'yaml_db'
 gem 'bootstrap-sass'
-gem 'sass-rails'
-gem 'compass-rails'
-gem 'coffee-rails'
+gem 'compass-rails', github: "Compass/compass-rails", branch: "rails4-hack"
+gem 'uglifier', '>= 1.3.0'
+gem 'coffee-rails', '~> 4.0.0'
+gem 'jquery-rails'
+gem 'jbuilder', '~> 1.2'
 
 group :development do
   gem 'letter_opener'
   gem 'thin'
-  gem 'better_errors'
-  gem 'binding_of_caller'
-  gem 'meta_request'
+  gem 'rails4_upgrade'
 end
 
-group :assets do
-  gem 'uglifier'
-  gem 'turbo-sprockets-rails3'
-end
-
-group :test do
-  gem 'rspec'
-  gem 'cucumber'
-end
-
-gem 'jquery-rails'
 gem 'unicorn'
 gem 'capistrano'
-gem 'execjs'
-gem 'therubyracer'

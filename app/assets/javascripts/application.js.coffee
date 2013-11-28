@@ -1,7 +1,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree ../../../vendor/assets/javascripts/fancybox
-//= require_tree ../../../vendor/assets/javascripts/gritter
+//= require gritter
 //= require_self
 
 jQuery.fn.addActiveClassOnHover = (selector) ->

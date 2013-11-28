@@ -6,7 +6,6 @@ class News < ActiveRecord::Base
   validates :title, :presence => :true
   permalink :title, :to_param => %w(id permalink)
 
-
   private
     
     def set_permalink

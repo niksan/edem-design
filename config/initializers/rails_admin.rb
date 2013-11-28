@@ -7,7 +7,7 @@ RailsAdmin.config do |config|
   config.audit_with :history, User
   config.main_app_name = ['Edem Design', 'Admin']
   config.default_items_per_page = 50
-  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, GritterNotice, RoleUser]
+  config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, RoleUser]
   [:email, :title].each do |method|
     config.label_methods << method
   end

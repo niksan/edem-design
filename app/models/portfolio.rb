@@ -1,7 +1,6 @@
 # encoding: utf-8
 class Portfolio < ActiveRecord::Base
 
-  attr_accessible :name, :portfolio_image, :portfolio_item_ids
   before_create :set_permalink
   validates :name, presence: true
   has_many :portfolio_items
