@@ -53,6 +53,9 @@ GEM
     capistrano-rails (1.1.0)
       capistrano (>= 3.0.0)
       capistrano-bundler (>= 1.0.0)
+    capistrano-rvm (0.1.0)
+      capistrano (~> 3.0)
+      sshkit (~> 1.2.0)
     chunky_png (1.2.9)
     ckeditor (4.0.6)
       mime-types
@@ -236,6 +239,7 @@ DEPENDENCIES
   cancan
   capistrano
   capistrano-rails (~> 1.1.0)
+  capistrano-rvm (~> 0.1.0)
   ckeditor
   coffee-rails (~> 4.0.0)
   compass-rails!
