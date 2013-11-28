@@ -1,5 +1,5 @@
 set :application,          'edem-design'
-set :repo_url,             'git://git@github.com:niksan/edem-design.git'
+set :repo_url,             'git://github.com/niksan/edem-design.git'
 set :scm,                  :git
 set :rails_env,            'production'
 set :rvm_ruby_string,      '2.0.0-p353@rails4'
