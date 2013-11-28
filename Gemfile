@@ -30,3 +30,5 @@ end
 
 gem 'unicorn'
 gem 'capistrano'
+gem 'execjs'
+gem 'therubyracer'
