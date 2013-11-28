@@ -1,4 +1,3 @@
-# encoding: utf-8
 class FeedbackMailer < ActionMailer::Base
   default from: "\"Сайт EDEM-DESIGN\" <info@edem-design.ru>"
   

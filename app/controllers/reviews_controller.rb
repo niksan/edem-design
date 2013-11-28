@@ -1,14 +1,11 @@
-# encoding: utf-8
 class ReviewsController < ApplicationController
   def index
-    @reviews = Review.where(:approve => true).order('id DESC')
+    @reviews = Review.all
   end
   
   def create
     Review.create(params[:review])
-    respond_to do |format|
-      format.js
-    end
+    respond_to :js
   end
 
 end

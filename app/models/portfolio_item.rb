@@ -1,4 +1,3 @@
-# encoding: utf-8
 class PortfolioItem < ActiveRecord::Base
   belongs_to :portfolio
   path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"

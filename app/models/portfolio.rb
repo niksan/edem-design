@@ -1,4 +1,3 @@
-# encoding: utf-8
 class Portfolio < ActiveRecord::Base
 
   before_create :set_permalink
@@ -10,6 +9,7 @@ class Portfolio < ActiveRecord::Base
   path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"
   url = "/system/:attachment/:id/:style/:basename.:extension"
   has_attached_file :portfolio_image, styles: { medium: "800x600>", thumb: "200x140#" }, url: url, path: path
+  default_scope -> { order('created_at DESC') }
 
   def portfolio_item_ids
     portfolio_items.collect{ |item| [item.id, item.id] }

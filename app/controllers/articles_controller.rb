@@ -1,13 +1,12 @@
-# encoding: utf-8
 class ArticlesController < ApplicationController
   
-  before_filter :find_article, :except => [:index]
+  before_filter :find_article, except: [:index]
   before_filter :find_help_info
 
   def index
     @article = Article.find(44)
     @childrens = @article.children.published
-    render :action => 'show'
+    render action: 'show'
   end
 
   def show
@@ -22,7 +21,7 @@ class ArticlesController < ApplicationController
     end
     
     def find_help_info
-      @help_info = Article.where(:help_info => true).order('title')
+      @help_info = Article.where(help_info: true).order('title')
     end
 
 end

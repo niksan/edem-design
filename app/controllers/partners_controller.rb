@@ -1,7 +1,7 @@
-# encoding: utf-8
 class PartnersController < ApplicationController
+
   def index
-    @partners = Partner.order('name')
+    @partners = Partner.all
   end
 
 end

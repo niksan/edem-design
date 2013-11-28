@@ -1,5 +1,6 @@
-# encoding: utf-8
 class Partner < ActiveRecord::Base
+  
+  default_scope -> { order('name') }
 
   path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"
   url = "/system/:attachment/:id/:style/:basename.:extension"

@@ -1,8 +1,7 @@
-# encoding: utf-8
 class PortfolioController < ApplicationController
 
   def index
-    @portfolios = Portfolio.order('created_at DESC')
+    @portfolios = Portfolio.all
   end
 
   def show

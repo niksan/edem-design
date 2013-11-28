@@ -44,14 +44,7 @@ RailsAdmin.config do |config|
       end
       field :parent, :belongs_to_association
       field :title, :string 
-      field :body, :text do
-        ckeditor do 
-          true
-        end
-        ckeditor_config_js do
-          '/assets/ckeditor/config.js'
-        end
-      end
+      field :body, :ck_editor
       field :special_offers, :has_many_association
       field :children, :has_many_association
       field :published
@@ -80,11 +73,7 @@ RailsAdmin.config do |config|
     edit do
       field :title
       field :date
-      field :body, :text do
-        ckeditor do 
-          true
-        end
-      end
+      field :body, :ck_editor
       field :portfolio
     end
     create do; end

@@ -1,8 +1,6 @@
-# encoding: utf-8
 class ApplicationController < ActionController::Base
   
   protect_from_forgery
-
   before_filter :find_last_news, :find_special_offers
   
   private
