@@ -11,7 +11,7 @@ set :format,               :pretty
 set :log_level,            :debug
 set :pty,                  true
 set :linked_files,         %w{config/database.yml}
-set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads}
+set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads public/ckeditor_assets}
 set :keep_releases,        5
 
 set :unicorn_start_cmd,    "(cd #{fetch(:deploy_to)}/current; rvm use #{fetch(:rvm_ruby_string)} do bundle exec unicorn_rails -Dc #{fetch(:unicorn_conf)} -E #{fetch(:rails_env)})"
