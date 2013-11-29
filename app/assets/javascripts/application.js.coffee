@@ -1,6 +1,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree ../../../vendor/assets/javascripts/fancybox
+//= require_tree .
 //= require gritter
 //= require_self
 
