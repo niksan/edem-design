@@ -1,6 +1,6 @@
 set :stage, :production
 
-role :all, %w{82.196.2.187}
+#role :all, %w{82.196.2.187}
 role :app, %w{82.196.2.187}
 role :web, %w{82.196.2.187}
 role :db,  %w{82.196.2.187}
