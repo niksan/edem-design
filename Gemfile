@@ -16,7 +16,7 @@ gem 'json'
 gem 'rails_admin'
 gem 'yaml_db'
 gem 'bootstrap-sass'
-gem 'compass-rails', github: "Compass/compass-rails", branch: "rails4-hack"
+gem 'compass-rails', github: "Compass/compass-rails"#, branch: "rails4-hack"
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
