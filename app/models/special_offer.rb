@@ -1,6 +1,8 @@
 class SpecialOffer < ActiveRecord::Base
 
   validate :name, presence: true
+  validates_attachment_content_type :special_image, :content_type => %w(image/jpeg image/jpg image/png)
+
   belongs_to :article
   
   image_url = "/system/:attachment/:id/:style/:basename.:extension"
