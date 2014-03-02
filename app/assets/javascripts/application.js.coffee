@@ -3,6 +3,7 @@
 //= require_tree ../../../vendor/assets/javascripts/fancybox
 //= require_tree .
 //= require gritter
+//= require ckeditor/override
 //= require_self
 
 jQuery.fn.addActiveClassOnHover = (selector) ->
