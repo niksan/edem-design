@@ -40,14 +40,6 @@ namespace :deploy do
     end
   end
 
-  desc 'copy ckeditor nondigest assets'
-  task :copy_nondigest_assets do
-    on roles(:app), in: :sequence, wait: 5 do
-      run "cd #{latest_release} && #{rake} RAILS_ENV=#{rails_env} ckeditor:create_nondigest_assets"
-    end
-  end
-  after 'deploy:assets:precompile', 'copy_nondigest_assets'
-
   after :finishing, 'deploy:cleanup'
 
 end
