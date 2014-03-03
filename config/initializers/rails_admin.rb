@@ -191,11 +191,11 @@ RailsAdmin.config do |config|
     configure :id, :integer
     configure :portfolio_id, :integer
     configure :title, :string
-    configure :portfolio_item_image, :paperclip
+    configure :image, :carrierwave
     configure :created_at, :datetime
     configure :updated_at, :datetime
     list do
-      field :portfolio_item_image
+      field :image
       field :title
       field :portfolio
     end
@@ -204,7 +204,7 @@ RailsAdmin.config do |config|
     edit do
       field :portfolio
       field :title
-      field :portfolio_item_image
+      field :image
     end
     create do; end
     update do; end
