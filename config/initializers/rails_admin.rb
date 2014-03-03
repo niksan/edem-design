@@ -80,27 +80,6 @@ RailsAdmin.config do |config|
     update do; end
   end
 
-  config.model SpecialOffer do
-      configure :article, :belongs_to_association
-      configure :id, :integer
-      configure :name, :string
-      configure :special_image_file_name, :string
-      configure :special_image_content_type, :string
-      configure :special_image_file_size, :integer
-      configure :special_image_updated_at, :datetime
-      configure :special_image, :paperclip
-      configure :article_id, :integer
-      configure :public, :boolean
-    configure :created_at, :datetime
-    configure :updated_at, :datetime
-    list do; end
-    export do; end
-    show do; end
-    edit do; end
-    create do; end
-    update do; end
-  end
-
   config.model Review do
     configure :id, :integer
     configure :name, :string
@@ -257,13 +236,13 @@ RailsAdmin.config do |config|
     configure :article_id, :belongs_to_association
     configure :id, :integer
     configure :name, :string
-    configure :special_image, :paperclip
+    configure :image, :carrierwave
     configure :public, :boolean
     configure :created_at, :datetime
     configure :updated_at, :datetime
     list do
       field :name
-      field :special_image
+      field :image
       field :article
       field :public
     end
@@ -272,7 +251,7 @@ RailsAdmin.config do |config|
     edit do
       field :article
       field :name
-      field :special_image
+      field :image
       field :public
     end
     create do; end
