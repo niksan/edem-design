@@ -6,9 +6,7 @@ class Portfolio < ActiveRecord::Base
   has_many :news
   permalink :name, to_param: %w(id permalink)
 
-  path = ":rails_root/public/system/:attachment/:id/:style/:basename.:extension"
-  url = "/system/:attachment/:id/:style/:basename.:extension"
-  has_attached_file :portfolio_image, styles: { medium: "800x600>", thumb: "200x140#" }, url: url, path: path
+  mount_uploader :image, PortfolioUploader
   default_scope -> { order('created_at DESC') }
 
   def portfolio_item_ids

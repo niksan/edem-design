@@ -11,11 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-<<<<<<< HEAD
-ActiveRecord::Schema.define(version: 20140302175351) do
-=======
-ActiveRecord::Schema.define(version: 20140303062239) do
->>>>>>> 2a19ce07d34cafdf5b0825e881efdfcfb87c8fb6
+ActiveRecord::Schema.define(version: 20140303130639) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -136,6 +132,7 @@ ActiveRecord::Schema.define(version: 20140303062239) do
     t.string   "portfolio_image_content_type"
     t.integer  "portfolio_image_file_size"
     t.datetime "portfolio_image_updated_at"
+    t.string   "image"
   end
 
   create_table "rails_admin_histories", force: true do |t|
@@ -178,17 +175,11 @@ ActiveRecord::Schema.define(version: 20140303062239) do
   create_table "special_offers", force: true do |t|
     t.string   "name"
     t.integer  "article_id"
-<<<<<<< HEAD
-    t.datetime "created_at",                                null: false
-    t.datetime "updated_at",                                null: false
-    t.boolean  "public",                     default: true
+    t.datetime "created_at",                   null: false
+    t.datetime "updated_at",                   null: false
+    t.boolean  "public",        default: true
     t.string   "special_image"
-=======
-    t.datetime "created_at",                null: false
-    t.datetime "updated_at",                null: false
-    t.boolean  "public",     default: true
     t.string   "image"
->>>>>>> 2a19ce07d34cafdf5b0825e881efdfcfb87c8fb6
   end
 
   create_table "users", force: true do |t|
