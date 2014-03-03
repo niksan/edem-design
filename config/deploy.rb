@@ -8,7 +8,7 @@ set :unicorn_conf,         "#{fetch(:deploy_to)}/current/config/unicorn.rb"
 set :unicorn_pid,          "#{fetch(:deploy_to)}/shared/pids/unicorn.pid"
 set :bundle_cmd,           "rvm use #{fetch(:rvm_ruby_string)} do bundle install"
 set :format,               :pretty
-set :log_level,            :debug
+set :log_level,            :info
 set :pty,                  true
 set :linked_files,         %w{config/database.yml}
 set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads public/ckeditor_assets}
