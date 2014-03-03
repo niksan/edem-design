@@ -8,7 +8,7 @@ class CarrierwaveMigrator
 
       Portfolio.where('portfolio_image_file_name IS NOT NULL').each do |p|
         p.image = File.open(Rails.root.join('public', 'system', 'images', p.id.to_s, 'original', p.image_file_name))
-        p.save!
+        p.save
       end  
     end
 
