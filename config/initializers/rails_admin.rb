@@ -84,11 +84,7 @@ RailsAdmin.config do |config|
       configure :article, :belongs_to_association
       configure :id, :integer
       configure :name, :string
-      configure :special_image_file_name, :string
-      configure :special_image_content_type, :string
-      configure :special_image_file_size, :integer
-      configure :special_image_updated_at, :datetime
-      configure :special_image, :paperclip
+      configure :image, :carrierweve
       configure :article_id, :integer
       configure :public, :boolean
     configure :created_at, :datetime

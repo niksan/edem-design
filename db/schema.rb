@@ -9,44 +9,47 @@
 # from scratch. The latter is a flawed and unsustainable approach (the more migrations
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
-# It's strongly recommended to check this file into your version control system.
+# It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130903073656) do
+ActiveRecord::Schema.define(version: 20140303055718) do
 
-  create_table "active_admin_comments", :force => true do |t|
-    t.string   "resource_id",   :null => false
-    t.string   "resource_type", :null => false
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
+  create_table "active_admin_comments", force: true do |t|
+    t.string   "resource_id",   null: false
+    t.string   "resource_type", null: false
     t.integer  "author_id"
     t.string   "author_type"
     t.text     "body"
-    t.datetime "created_at",    :null => false
-    t.datetime "updated_at",    :null => false
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
     t.string   "namespace"
   end
 
-  add_index "active_admin_comments", ["author_type", "author_id"], :name => "index_active_admin_comments_on_author_type_and_author_id"
-  add_index "active_admin_comments", ["namespace"], :name => "index_active_admin_comments_on_namespace"
-  add_index "active_admin_comments", ["resource_type", "resource_id"], :name => "index_admin_notes_on_resource_type_and_resource_id"
+  add_index "active_admin_comments", ["author_type", "author_id"], name: "index_active_admin_comments_on_author_type_and_author_id", using: :btree
+  add_index "active_admin_comments", ["namespace"], name: "index_active_admin_comments_on_namespace", using: :btree
+  add_index "active_admin_comments", ["resource_type", "resource_id"], name: "index_admin_notes_on_resource_type_and_resource_id", using: :btree
 
-  create_table "admin_users", :force => true do |t|
-    t.string   "email",                  :default => "", :null => false
-    t.string   "encrypted_password",     :default => "", :null => false
+  create_table "admin_users", force: true do |t|
+    t.string   "email",                  default: "", null: false
+    t.string   "encrypted_password",     default: "", null: false
     t.string   "reset_password_token"
     t.datetime "reset_password_sent_at"
     t.datetime "remember_created_at"
-    t.integer  "sign_in_count",          :default => 0
+    t.integer  "sign_in_count",          default: 0
     t.datetime "current_sign_in_at"
     t.datetime "last_sign_in_at"
     t.string   "current_sign_in_ip"
     t.string   "last_sign_in_ip"
-    t.datetime "created_at",                             :null => false
-    t.datetime "updated_at",                             :null => false
+    t.datetime "created_at",                          null: false
+    t.datetime "updated_at",                          null: false
   end
 
-  add_index "admin_users", ["email"], :name => "index_admin_users_on_email", :unique => true
-  add_index "admin_users", ["reset_password_token"], :name => "index_admin_users_on_reset_password_token", :unique => true
+  add_index "admin_users", ["email"], name: "index_admin_users_on_email", unique: true, using: :btree
+  add_index "admin_users", ["reset_password_token"], name: "index_admin_users_on_reset_password_token", unique: true, using: :btree
 
-  create_table "articles", :force => true do |t|
+  create_table "articles", force: true do |t|
     t.string   "title"
     t.text     "body"
     t.datetime "created_at"
@@ -56,39 +59,39 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.integer  "lft"
     t.integer  "rgt"
     t.boolean  "special_offer"
-    t.string   "meta_title",    :default => ""
-    t.boolean  "help_info",     :default => false
-    t.boolean  "published",     :default => true
+    t.string   "meta_title",    default: ""
+    t.boolean  "help_info",     default: false
+    t.boolean  "published",     default: true
     t.integer  "portfolio_id"
   end
 
-  create_table "ckeditor_assets", :force => true do |t|
-    t.string   "data_file_name",                  :null => false
+  create_table "ckeditor_assets", force: true do |t|
+    t.string   "data_file_name",               null: false
     t.string   "data_content_type"
     t.integer  "data_file_size"
     t.integer  "assetable_id"
-    t.string   "assetable_type",    :limit => 30
-    t.string   "type",              :limit => 30
+    t.string   "assetable_type",    limit: 30
+    t.string   "type",              limit: 30
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  add_index "ckeditor_assets", ["assetable_type", "assetable_id"], :name => "idx_ckeditor_assetable"
-  add_index "ckeditor_assets", ["assetable_type", "type", "assetable_id"], :name => "idx_ckeditor_assetable_type"
+  add_index "ckeditor_assets", ["assetable_type", "assetable_id"], name: "idx_ckeditor_assetable", using: :btree
+  add_index "ckeditor_assets", ["assetable_type", "type", "assetable_id"], name: "idx_ckeditor_assetable_type", using: :btree
 
-  create_table "gritter_notices", :force => true do |t|
-    t.integer  "owner_id",     :null => false
-    t.string   "owner_type",   :null => false
-    t.text     "text",         :null => false
-    t.text     "options",      :null => false
+  create_table "gritter_notices", force: true do |t|
+    t.integer  "owner_id",     null: false
+    t.string   "owner_type",   null: false
+    t.text     "text",         null: false
+    t.text     "options",      null: false
     t.datetime "delivered_at"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  add_index "gritter_notices", ["owner_id", "delivered_at"], :name => "index_gritter_notices_on_owner_id_and_delivered_at"
+  add_index "gritter_notices", ["owner_id", "delivered_at"], name: "index_gritter_notices_on_owner_id_and_delivered_at", using: :btree
 
-  create_table "news", :force => true do |t|
+  create_table "news", force: true do |t|
     t.string   "title"
     t.datetime "date"
     t.text     "body"
@@ -98,7 +101,7 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.integer  "portfolio_id"
   end
 
-  create_table "partners", :force => true do |t|
+  create_table "partners", force: true do |t|
     t.string   "name"
     t.string   "url"
     t.string   "partner_image_file_name"
@@ -109,7 +112,7 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.datetime "updated_at"
   end
 
-  create_table "portfolio_items", :force => true do |t|
+  create_table "portfolio_items", force: true do |t|
     t.string   "title"
     t.integer  "portfolio_id"
     t.string   "portfolio_item_image_file_name"
@@ -120,7 +123,7 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.datetime "updated_at"
   end
 
-  create_table "portfolios", :force => true do |t|
+  create_table "portfolios", force: true do |t|
     t.string   "name"
     t.string   "permalink"
     t.datetime "created_at"
@@ -131,20 +134,20 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.datetime "portfolio_image_updated_at"
   end
 
-  create_table "rails_admin_histories", :force => true do |t|
+  create_table "rails_admin_histories", force: true do |t|
     t.text     "message"
     t.string   "username"
     t.integer  "item"
     t.string   "table"
-    t.integer  "month",      :limit => 2
-    t.integer  "year",       :limit => 8
-    t.datetime "created_at",              :null => false
-    t.datetime "updated_at",              :null => false
+    t.integer  "month",      limit: 2
+    t.integer  "year",       limit: 8
+    t.datetime "created_at",           null: false
+    t.datetime "updated_at",           null: false
   end
 
-  add_index "rails_admin_histories", ["item", "table", "month", "year"], :name => "index_rails_admin_histories"
+  add_index "rails_admin_histories", ["item", "table", "month", "year"], name: "index_rails_admin_histories", using: :btree
 
-  create_table "reviews", :force => true do |t|
+  create_table "reviews", force: true do |t|
     t.string   "name"
     t.string   "email"
     t.string   "phone"
@@ -155,47 +158,48 @@ ActiveRecord::Schema.define(:version => 20130903073656) do
     t.datetime "updated_at"
   end
 
-  create_table "role_users", :force => true do |t|
+  create_table "role_users", force: true do |t|
     t.integer  "role_id"
     t.integer  "user_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
-  create_table "roles", :force => true do |t|
+  create_table "roles", force: true do |t|
     t.string   "name"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
-  create_table "special_offers", :force => true do |t|
+  create_table "special_offers", force: true do |t|
     t.string   "name"
     t.string   "special_image_file_name"
     t.string   "special_image_content_type"
     t.integer  "special_image_file_size"
     t.datetime "special_image_updated_at"
     t.integer  "article_id"
-    t.datetime "created_at",                                   :null => false
-    t.datetime "updated_at",                                   :null => false
-    t.boolean  "public",                     :default => true
+    t.datetime "created_at",                                null: false
+    t.datetime "updated_at",                                null: false
+    t.boolean  "public",                     default: true
+    t.string   "image"
   end
 
-  create_table "users", :force => true do |t|
-    t.string   "email",                  :default => "", :null => false
-    t.string   "encrypted_password",     :default => "", :null => false
+  create_table "users", force: true do |t|
+    t.string   "email",                  default: "", null: false
+    t.string   "encrypted_password",     default: "", null: false
     t.string   "reset_password_token"
     t.datetime "reset_password_sent_at"
     t.datetime "remember_created_at"
-    t.integer  "sign_in_count",          :default => 0
+    t.integer  "sign_in_count",          default: 0
     t.datetime "current_sign_in_at"
     t.datetime "last_sign_in_at"
     t.string   "current_sign_in_ip"
     t.string   "last_sign_in_ip"
-    t.datetime "created_at",                             :null => false
-    t.datetime "updated_at",                             :null => false
+    t.datetime "created_at",                          null: false
+    t.datetime "updated_at",                          null: false
   end
 
-  add_index "users", ["email"], :name => "index_users_on_email", :unique => true
-  add_index "users", ["reset_password_token"], :name => "index_users_on_reset_password_token", :unique => true
+  add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
+  add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
 
 end
