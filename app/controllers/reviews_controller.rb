@@ -4,8 +4,15 @@ class ReviewsController < ApplicationController
   end
   
   def create
-    Review.create(params[:review])
+    Review.create(review_params)
     respond_to :js
   end
+
+  private
+
+    def review_params
+      params.require(:review).permit(:name, :phone, :email, :body, :theme)
+    end
+
 
 end
