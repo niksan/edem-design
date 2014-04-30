@@ -3,7 +3,7 @@
 - unless @childrens.empty?
   %ul#subsections
     - @childrens.each do |child|
-      %li= link_to child.title, article_permalink(child.id, 'second_menu')
+      %li= link_to child.title, article_permalink(child.id, 'second_menu') if child.published
 != @article.body
 != render 'portfolio/list', items: @article.portfolio.portfolio_items if @article.portfolio
 #help_info

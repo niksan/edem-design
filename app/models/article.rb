@@ -10,7 +10,7 @@ class Article < ActiveRecord::Base
   acts_as_nested_set
   scope :published, -> { where(published: true) }
   scope :unpublished, -> { where(published: false) }
-  default_scope -> { where(published: true) }
+  #default_scope -> { where(published: true) }
 
   def to_label
     self.title
