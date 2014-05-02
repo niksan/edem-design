@@ -2,7 +2,7 @@ set :application,          'edem-design'
 set :repo_url,             'git://github.com/niksan/edem-design.git'
 set :scm,                  :git
 set :rails_env,            'production'
-set :rvm_ruby_string,      '2.0.0-p353@rails4'
+set :rvm_ruby_string,      '2.1.1@edem-design'
 set :deploy_to,            "/srv/htdocs/#{fetch(:application)}"
 set :unicorn_conf,         "#{fetch(:deploy_to)}/current/config/unicorn.rb"
 set :unicorn_pid,          "#{fetch(:deploy_to)}/shared/pids/unicorn.pid"
