@@ -23,7 +23,7 @@ worker_processes 1
 
 # Help ensure your application will always spawn in the symlinked
 # "current" directory that Capistrano sets up.
-working_directory "/srv/htdocs/#{application}/current" # available in 0.94.0+
+working_directory "/srv/projects/#{application}/current" # available in 0.94.0+
 
 # listen on both a Unix domain socket and a TCP port,
 # we use a shorter backlog for quicker failover when busy
@@ -34,13 +34,13 @@ listen 3101, :tcp_nopush => true
 timeout 30
 
 # feel free to point this anywhere accessible on the filesystem
-pid "/srv/htdocs/#{application}/shared/pids/unicorn.pid"
+pid "/srv/projects/#{application}/shared/pids/unicorn.pid"
 
 # By default, the Unicorn logger will write to stderr.
 # Additionally, ome applications/frameworks log to stderr or stdout,
 # so prevent them from going to /dev/null when daemonized here:
-stderr_path "/srv/htdocs/#{application}/shared/log/unicorn.stderr.log"
-stdout_path "/srv/htdocs/#{application}/shared/log/unicorn.stdout.log"
+stderr_path "/srv/projects/#{application}/shared/log/unicorn.stderr.log"
+stdout_path "/srv/projects/#{application}/shared/log/unicorn.stdout.log"
 
 # combine Ruby 2.0.0dev or REE with "preload_app true" for memory savings
 # http://rubyenterpriseedition.com/faq.html#adapt_apps_for_cow
