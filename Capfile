@@ -21,7 +21,7 @@ require 'capistrano/rvm'
 # require 'capistrano/bundler'
 #require 'capistrano/rails'
 #require "capistrano/bundler"
-require "capistrano/bundler"
+#require "capistrano/bundler"
 require "capistrano/rails"
 
 # Loads custom tasks from `lib/capistrano/tasks' if you have any defined.
