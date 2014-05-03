@@ -28,7 +28,7 @@ working_directory "/srv/htdocs/#{application}/current" # available in 0.94.0+
 # listen on both a Unix domain socket and a TCP port,
 # we use a shorter backlog for quicker failover when busy
 listen "/tmp/#{application}.sock", :backlog => 64
-listen 3104, :tcp_nopush => true
+listen 3101, :tcp_nopush => true
 
 # nuke workers after 30 seconds instead of 60 seconds (the default)
 timeout 30
