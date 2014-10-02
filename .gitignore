@@ -1,3 +1,5 @@
+*.tar.gz
+dump.sql
 .bundle
 db/*.sqlite3
 log/*.log
@@ -6,5 +8,6 @@ tmp/
 config/database.yml
 public/assets
 public/system
+public/uploads
 public/ckeditor_assets
 config/database.yml
