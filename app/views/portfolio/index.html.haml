@@ -1,7 +1,8 @@
 %h1 Портфолио
 #filters
   - @tags.each do |t|
-    = link_to t, ''
+    = link_to 'Все', '#', :'data-filter' => '*', class: 'active'
+    = link_to t, '#', :'data-filter' => t
 #portfolios
   - @portfolios.each do |portfolio|
     .item

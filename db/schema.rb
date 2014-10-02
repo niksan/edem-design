@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141002204650) do
+ActiveRecord::Schema.define(version: 20141002215409) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -129,6 +129,15 @@ ActiveRecord::Schema.define(version: 20141002204650) do
     t.string   "tags"
   end
 
+  create_table "portfolios_tags", id: false, force: true do |t|
+    t.integer  "portfolio_id"
+    t.integer  "tag_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "portfolios_tags", ["portfolio_id", "tag_id"], name: "index_portfolios_tags_on_portfolio_id_and_tag_id", unique: true, using: :btree
+
   create_table "rails_admin_histories", force: true do |t|
     t.text     "message"
     t.string   "username"
@@ -174,6 +183,12 @@ ActiveRecord::Schema.define(version: 20141002204650) do
     t.boolean  "public",        default: true
     t.string   "special_image"
     t.string   "image"
+  end
+
+  create_table "tags", force: true do |t|
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "users", force: true do |t|
