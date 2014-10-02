@@ -4,7 +4,7 @@ RailsAdmin.config do |config|
   config.authorize_with :cancan
   I18n.default_locale = :ru
   config.current_user_method { current_user }
-  config.audit_with :history, User
+  #config.audit_with :history, User
   config.main_app_name = ['Edem Design', 'Admin']
   config.default_items_per_page = 50
   config.excluded_models = [Ckeditor::Asset, Ckeditor::AttachmentFile, Ckeditor::Picture, RoleUser]
@@ -211,10 +211,11 @@ RailsAdmin.config do |config|
   end
 
   config.model Portfolio do
-    visible false
+#    visible false
     configure :portfolio_items, :has_many_association
     configure :id, :integer
     configure :name, :string
+    configure :tags, :string
     configure :image, :carrierwave
     configure :created_at, :datetime
     configure :updated_at, :datetime
@@ -226,6 +227,7 @@ RailsAdmin.config do |config|
     show do; end
     edit do
       field :name
+      field :tags
       field :image
     end
     create do; end
