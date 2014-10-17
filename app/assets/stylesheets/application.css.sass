@@ -2,6 +2,7 @@
   *= require_self
   *= require_tree ../../../vendor/assets/stylesheets/fancybox
   *= require_tree ../../../vendor/assets/stylesheets/gritter
+  *= require ../../../vendor/assets/stylesheets/animate
   *= require gritter
   *= require_tree .
   */
@@ -257,6 +258,8 @@ body
           font-size: 12px
       .news.active a 
         color: #7bab46
+      .news:last-child
+        margin-right: 0px
     #news_right
       margin: -13px 0px 0px 0px
       float: left

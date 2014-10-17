@@ -5,11 +5,11 @@ role :app, %w{82.196.2.187}
 role :web, %w{82.196.2.187}
 role :db,  %w{82.196.2.187}
 
-server '82.196.2.187', user: 'root', roles: %w{all}#, my_property: :my_value
+server '82.196.2.187', user: 'root', roles: %w{app web db}#, my_property: :my_value
 
 server '82.196.2.187',
   user: 'root',
-  roles: %w{root},
+  roles: %w{app web db},
   ssh_options: {
     user: 'root', # overrides user setting above
     keys: %w(/home/niksan/.ssh/id_rsa),

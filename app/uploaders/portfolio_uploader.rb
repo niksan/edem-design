@@ -4,7 +4,7 @@ class PortfolioUploader < CarrierWave::Uploader::Base
   include UploadImage
 
   version :thumb do
-    process resize_to_fill: [200, 140]
+    process resize_to_fill: [177, 140]
   end
 
   version :medium do
