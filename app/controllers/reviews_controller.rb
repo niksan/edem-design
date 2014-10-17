@@ -11,7 +11,8 @@ class ReviewsController < ApplicationController
   private
 
     def review_params
-      params.require(:review).permit(:name, :phone, :email, :body, :theme)
+      params['review']['approve'] = false
+      params.require(:review).permit(:name, :phone, :email, :body, :theme, :approve)
     end
 
 
