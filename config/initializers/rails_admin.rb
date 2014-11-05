@@ -152,6 +152,25 @@ RailsAdmin.config do |config|
     update do; end
   end
 
+  config.model Tag do
+      configure :id, :integer 
+      configure :name, :string 
+      configure :created_at, :datetime 
+      configure :updated_at, :datetime
+    list do
+      field :id
+      field :name
+      field :slug
+    end
+    export do; end
+    show do; end
+    edit do
+      field :name
+    end
+    create do; end
+    update do; end
+  end
+
   config.model User do
       configure :roles, :has_many_association 
       configure :id, :integer 
@@ -213,9 +232,9 @@ RailsAdmin.config do |config|
   config.model Portfolio do
 #    visible false
     configure :portfolio_items, :has_many_association
+    configure :tags, :has_and_belongs_to_many_association
     configure :id, :integer
     configure :name, :string
-    configure :tags, :string
     configure :image, :carrierwave
     configure :created_at, :datetime
     configure :updated_at, :datetime
@@ -229,6 +248,7 @@ RailsAdmin.config do |config|
       field :name
       field :tags
       field :image
+      field :tags
     end
     create do; end
     update do; end

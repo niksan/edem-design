@@ -4,6 +4,8 @@ class Portfolio < ActiveRecord::Base
   validates :name, presence: true
   has_many :portfolio_items
   has_many :news
+  has_and_belongs_to_many :tags
+  #accepts_nested_attributes_for :tags, allow_destroy: true
   permalink :name, to_param: %w(id permalink)
 
   mount_uploader :image, PortfolioUploader
