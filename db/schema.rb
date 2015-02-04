@@ -177,9 +177,10 @@ ActiveRecord::Schema.define(version: 20141105091708) do
   create_table "special_offers", force: true do |t|
     t.string   "name"
     t.integer  "article_id"
-    t.datetime "created_at",                null: false
-    t.datetime "updated_at",                null: false
-    t.boolean  "public",     default: true
+    t.datetime "created_at",                   null: false
+    t.datetime "updated_at",                   null: false
+    t.boolean  "public",        default: true
+    t.string   "special_image"
     t.string   "image"
   end
 

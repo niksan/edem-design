@@ -1,3 +1,4 @@
+#coding: utf-8
 class Article < ActiveRecord::Base
 
   belongs_to :portfolio

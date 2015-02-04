@@ -1,3 +1,4 @@
+#coding: utf-8
 class News < ActiveRecord::Base
 
   belongs_to :portfolio
