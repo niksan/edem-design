@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '4.1.9'
+gem 'rails', '4.0.3'
 gem 'pg'
 gem 'sass-rails', '~> 4.0.0'
 gem 'haml-rails'
@@ -24,6 +24,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'newrelic_rpm'
+gem "non-stupid-digest-assets"
 
 group :development do
   gem 'letter_opener'
