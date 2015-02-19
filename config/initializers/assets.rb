@@ -1,2 +1,2 @@
-NonStupidDigestAssets.whitelist += [/tinymce\/.*/, "image.png"]
+NonStupidDigestAssets.whitelist = [/ckeditor\/.*/, /ck_editor\/.*/, /ck-editor\/.*/, /resque\/.*/]
 #Rails.application.config.assets.precompile += %w( ckeditor/* )
