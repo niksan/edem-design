@@ -28,8 +28,9 @@ gem 'newrelic_rpm'
 group :development do
   gem 'letter_opener'
   gem 'thin'
-  gem "capistrano", '~> 2.15.5'
-  gem "rvm-capistrano", '~> 1.5.3'
+  gem 'capistrano', '~> 3.1.0'
+  gem 'capistrano-rails', '~> 1.1.0'
+  gem 'capistrano-rvm', '~> 0.1.0'
 end
 
 gem 'therubyracer', platforms: :ruby
