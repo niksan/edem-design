@@ -1,5 +1,6 @@
 //= require jquery
 //= require jquery_ujs
+//= require ../../../vendor/assets/javascripts/bootstrap.min
 //= require_tree ../../../vendor/assets/javascripts/fancybox
 //= require ../../../vendor/assets/javascripts/isotope.pkgd.min
 //= require_tree .
@@ -49,4 +50,12 @@ $(document).ready( ->
     prevEffect: 'fade',
     nextEffect: 'fade',
   })
+  $('a.tulp').click ->
+    item = $(@).parent().parent().find('h3').text()
+    $('#call_request_item').val(item)
+    $('#modal1').modal('show')
+    false
+  $('#modal1_form').submit (event)->
+    $('#modal1').modal('hide')
+    alert('Спасибо, с Вами скоро свяжется наш менеджер.')
 )

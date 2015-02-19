@@ -1,0 +1,15 @@
+#modal1.modal.fade{ tabindex: "-1", role: "dialog", :'aria-labelledby' => "myModalLabel", :'aria-hidden' => "true" }
+  .modal-dialog
+    .modal-content
+      .modal-header
+        %button{ type: "button", class: "close", :'data-dismiss' => "modal", :'aria-label' => "Close"}
+          %span{ :'aria-hidden' => "true" } &times;
+        %h4#myModalLabel.modal-title Заказ цветов
+      .modal-body
+        %p Для заказа цветов оставьте Ваш номер телефона. Менеджер перезвонит Вам в течении пяти минут.
+        = form_for :call_request, url: call_requests_path, method: :post, remote: true, html: { id: 'modal1_form'} do |f|
+          = f.hidden_field :item
+          .form-group
+            = f.text_field :phone, class: 'form-control', placeholder: 'Телефон'
+          .form-group
+            = f.submit 'Заказать', class: 'btn btn-primary'

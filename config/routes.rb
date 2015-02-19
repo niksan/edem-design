@@ -8,5 +8,6 @@ EdemDesign::Application.routes.draw do
   root to: 'articles#index'
 
   resources :articles, :news, :portfolio, :reviews, :partners, :messages
+  resources :call_requests, only: :create
 
 end
