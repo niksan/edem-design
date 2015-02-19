@@ -9,7 +9,7 @@ gem 'cancan'
 gem 'paperclip'
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'ckeditor'
+gem 'ckeditor', github: 'galetahub/ckeditor'
 gem 'gritter', '1.0.3'
 gem 'permalink'
 gem 'awesome_nested_set'
@@ -29,10 +29,9 @@ gem "non-stupid-digest-assets"
 group :development do
   gem 'letter_opener'
   gem 'thin'
-  gem 'capistrano', '~> 3.1.0'
-  gem 'capistrano-rails', '~> 1.1.0'
-  gem 'capistrano-rvm', '~> 0.1.0'
 end
 
-gem 'therubyracer', platforms: :ruby
 gem 'unicorn'
+gem 'capistrano'
+gem 'capistrano-rails', '~> 1.1.0'
+gem 'capistrano-rvm', '~> 0.1.0'
