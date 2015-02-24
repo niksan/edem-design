@@ -10,6 +10,7 @@ class ArticlesController < ApplicationController
   end
 
   def show
+    render layout: 'specials' if params[:id].to_i == 59
     redirect_to root_path if @article.special_offers.any? { |s| s.public == false }
   end
 

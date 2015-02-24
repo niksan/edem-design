@@ -57,5 +57,5 @@ $(document).ready( ->
     false
   $('#modal1_form').submit (event)->
     $('#modal1').modal('hide')
-    alert('Спасибо, с Вами скоро свяжется наш менеджер.')
+    window.location.href = 'http://edem-design.ru/articles/61-spasibo-za-zakaz'
 )

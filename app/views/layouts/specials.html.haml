@@ -1,0 +1,57 @@
+!!! Strict
+%html
+  %head
+    %title
+      = page_title
+    %meta{ content: 'text/html; charset=UTF-8', :'http-equiv' => 'Content-Type' }
+    %link{ rel: 'shortcut icon', href: '/favicon.ico', type: 'image/x-icon' }
+    = stylesheet_link_tag 'application'
+    = javascript_include_tag 'application'
+    = csrf_meta_tags
+  %body
+    = gflash
+    #wrapper
+      #header
+        = link_to (image_tag 'header/logo.jpg', alt: 'Ландшафтная студия - Эдем'), root_path, id: 'logo'
+        #icons
+          = link_to image_tag('header/mail_icon.gif', alt: 'Контакты'), article_permalink(21, 'second_menu'), class: 'contacts'
+          = link_to image_tag('header/map_icon.gif', alt: 'Карта сайта'), '', class: 'sitemap'
+          = link_to image_tag('header/fav_icon.gif', alt: 'В избранное'), '', class: 'favorite'
+        #contacts<
+          %span.phone<
+            +7(473)2-92-00-76
+          г. Воронеж, ул. Хользунова, 4, оф. 1, этаж 4
+        #main_menu
+          - cache 'main_menu' do
+            = render 'shared/main_menu'
+      %object{ data: asset_path('header.swf'), height: '216', id: 'header_flash', type: 'application/x-shockwave-flash', width: '1200' }
+        %param{ name: 'movie', value: asset_path('header.swf') }
+        %param{ name: 'wmode', value: 'transparent'}
+        %param{ name: 'quality', value: 'high' }
+      #middle_part
+        #content
+          = yield
+        #sidebar
+          .clear
+          = render 'shared/message_form'
+        .clear
+        #news
+          = link_to 'Новости:', news_index_path, class: 'header'
+          #news_left
+          #news_list
+            - @last_news.each do |news|
+              .news
+                %span.date
+                  = l news.date, format: :for_news
+                  = link_to news.title, news_path(news, anchor: 'second_menu')
+          #news_right
+          .clear
+        #footer
+          .contacts
+            %span.phone
+              +7(473)292-00-76
+            %span.address
+              г. Воронеж, ул. Хользунова, 4, оф. 1, этаж 4
+            = link_to raw('схема проезда &rarr;'), Article.find(21)
+    = render 'shared/yandex_metrika'
+    = render 'shared/modal1'
