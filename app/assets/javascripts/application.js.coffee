@@ -57,5 +57,5 @@ $(document).ready( ->
     false
   $('#modal1_form').submit (event)->
     $('#modal1').modal('hide')
-    window.location.href = 'http://edem-design.ru/articles/61-spasibo-za-zakaz'
+    window.location.href = 'http://edem-design.ru/articles/61-spasibo-za-zakaz#second_menu'
 )
