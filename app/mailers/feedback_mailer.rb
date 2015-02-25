@@ -3,6 +3,6 @@ class FeedbackMailer < ActionMailer::Base
   
   def feedback_message(datas)
     @datas = datas
-    mail(to: 'land-edem@mail.ru', subject: 'Сообщение с сайта EDEM-DESIGN.RU')
+    mail(to: 'land-edem-proekt@mail.ru', cc: 'land-edem@mail.ru', subject: 'Сообщение с сайта EDEM-DESIGN.RU')
   end
 end

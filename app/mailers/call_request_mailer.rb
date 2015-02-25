@@ -6,7 +6,7 @@ class CallRequestMailer < ActionMailer::Base
     @item = item
     logger.info @phone.inspect
     logger.info @item.inspect
-    mail(to: 'land-edem@mail.ru', subject: 'ЗАКАЗ обратного звонка!!!')
+    mail(to: 'land-edem-proekt@mail.ru', cc: 'land-edem@mail.ru', subject: 'ЗАКАЗ обратного звонка!!!')
   end
 
 end
