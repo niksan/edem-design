@@ -1,66 +1,59 @@
-set :application,          'edem-design'
-set :repo_url,             'git://github.com/niksan/edem-design.git'
-set :scm,                  :git
-set :rails_env,            'production'
-set :rvm_ruby_string,      '2.1.1@edem-design'
-set :deploy_to,            "/srv/htdocs/#{fetch(:application)}"
-set :unicorn_conf,         "#{fetch(:deploy_to)}/current/config/unicorn.rb"
-set :unicorn_pid,          "#{fetch(:deploy_to)}/shared/pids/unicorn.pid"
-set :format,               :pretty
-set :log_level,            :info
-set :pty,                  true
-set :linked_files,         %w{config/database.yml config/newrelic.yml}
-set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads public/ckeditor_assets}
-set :keep_releases,        5
+ssh_options[:forward_agent] = true
+set :application,     "edem-design"
+set :deploy_server,   "hydrogen.locum.ru"
+set :bundle_without,  [:development, :test]
+set :user,            "hosting_niksan"
+set :login,           "niksan"
+set :use_sudo,        false
+set :deploy_to,       "/home/#{user}/projects/#{application}"
+set :unicorn_conf,    "/etc/unicorn/#{application}.#{login}.rb"
+set :unicorn_pid,     "/var/run/unicorn/#{user}/#{application}.#{login}.pid"
+set :bundle_dir,      File.join(fetch(:shared_path), 'gems')
+set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads }
+set :rvm_ruby_string, "2.2.0"
+set :rake,            "rvm use #{rvm_ruby_string} do bundle exec rake" 
+set :bundle_cmd,      "rvm use #{rvm_ruby_string} do bundle"
+set :scm,             :git
+set :repository,      "git@github.com:niksan/edem-design.git"
+role :web,            deploy_server
+role :app,            deploy_server
+role :db,             deploy_server, :primary => true
 
-namespace :deploy do
+require 'bundler/capistrano'
 
-  desc 'Restart application'
-  task :restart do
-    invoke 'unicorn:restart'
+after "deploy:update_code", :link_files
+
+task :link_files, roles => :app do
+  %W(config/database.yml public/uploads).each do |linked_file|
+    filepath = "#{ shared_path }/#{ linked_file }"
+    run "ln -nfs #{ filepath } #{ release_path }/#{ linked_file }"
   end
 end
 
-namespace :unicorn do
+load 'deploy/assets'
 
-  def run_unicorn
-    execute "#{fetch(:bundle_binstubs)}/unicorn", "-c #{release_path}/config/unicorn.rb -D -E #{fetch(:stage)}"
+before 'deploy:finalize_update', 'set_current_release'
+task :set_current_release, :roles => :app do
+    set :current_release, latest_release
+end
+
+  set :unicorn_start_cmd, "(cd #{deploy_to}/current; rvm use #{rvm_ruby_string} do bundle exec unicorn_rails -Dc #{unicorn_conf})"
+
+
+# - for unicorn - #
+namespace :deploy do
+  desc "Start application"
+  task :start, :roles => :app do
+    run unicorn_start_cmd
   end
 
-  desc 'Start unicorn'
-  task :start do
-    on roles(:app) do
-      run_unicorn
-    end
+  desc "Stop application"
+  task :stop, :roles => :app do
+    run "[ -f #{unicorn_pid} ] && kill -QUIT `cat #{unicorn_pid}`"
   end
 
-  desc 'Stop unicorn'
-  task :stop do
-    on roles(:app) do
-      if test "[ -f #{fetch(:unicorn_pid)} ]"
-        execute :kill, "-QUIT `cat #{fetch(:unicorn_pid)}`"
-      end
-    end
-  end
-
-  desc 'Force stop unicorn (kill -9)'
-  task :force_stop do
-    on roles(:app) do
-      if test "[ -f #{fetch(:unicorn_pid)} ]"
-        execute :kill, "-9 `cat #{fetch(:unicorn_pid)}`"
-        execute :rm, fetch(:unicorn_pid)
-      end
-    end
-  end
-
-  desc 'Restart unicorn'
-  task :restart do
-    on roles(:app) do
-      if test "[ -f #{fetch(:unicorn_pid)} ]"
-        execute :kill, "-USR2 `cat #{fetch(:unicorn_pid)}`"
-      else
-        run_unicorn
-      end
-    end
+  desc "Restart Application"
+  task :restart, :roles => :app do
+    run "[ -f #{unicorn_pid} ] && kill -USR2 `cat #{unicorn_pid}` || #{unicorn_start_cmd}"
   end
 end
