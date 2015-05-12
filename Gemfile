@@ -23,7 +23,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'newrelic_rpm'
-gem "non-stupid-digest-assets"
+gem "non-stupid-digest-assets", require: true
 
 group :development do
   gem 'letter_opener'
