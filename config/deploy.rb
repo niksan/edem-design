@@ -24,7 +24,7 @@ require 'bundler/capistrano'
 after "deploy:update_code", :link_files
 
 task :link_files, roles => :app do
-  %W(config/database.yml public/uploads).each do |linked_file|
+  %W(config/database.yml public/uploads public/system public/ckeditor_assets).each do |linked_file|
     filepath = "#{ shared_path }/#{ linked_file }"
     run "ln -nfs #{ filepath } #{ release_path }/#{ linked_file }"
   end
