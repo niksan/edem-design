@@ -5,7 +5,6 @@
 //= require ../../../vendor/assets/javascripts/isotope.pkgd.min
 //= require_tree .
 //= require gritter
-//= require ckeditor/override
 //= require_self
 
 jQuery.fn.addActiveClassOnHover = (selector) ->
