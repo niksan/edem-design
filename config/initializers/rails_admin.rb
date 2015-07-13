@@ -155,17 +155,20 @@ RailsAdmin.config do |config|
   config.model Tag do
       configure :id, :integer 
       configure :name, :string 
+      configure :published, :boolean
       configure :created_at, :datetime 
       configure :updated_at, :datetime
     list do
       field :id
       field :name
+      field :published
       field :slug
     end
     export do; end
     show do; end
     edit do
       field :name
+      field :published
     end
     create do; end
     update do; end

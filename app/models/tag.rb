@@ -6,6 +6,8 @@ class Tag < ActiveRecord::Base
 
   before_save :set_slug
 
+  scope :published, -> { where(published: true) }
+
   private
 
     def set_slug

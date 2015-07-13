@@ -2,7 +2,7 @@ class PortfolioController < ApplicationController
 
   def index
     @portfolios = Portfolio.all
-    @tags = Tag.all
+    @tags = Tag.published
   end
 
   def show
