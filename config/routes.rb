@@ -1,9 +1,9 @@
 EdemDesign::Application.routes.draw do
 
+  mount Ckeditor::Engine => '/ckeditor'
   devise_for :users
 
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
-  mount Ckeditor::Engine => '/ckeditor'
 
   root to: 'articles#index'
 

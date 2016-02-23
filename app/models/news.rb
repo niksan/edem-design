@@ -3,7 +3,7 @@ class News < ActiveRecord::Base
 
   belongs_to :portfolio
   before_create :set_permalink
-  validates :title, :presence => :true
+  validates :title, presence: true
   permalink :title, :to_param => %w(id permalink)
 
   private

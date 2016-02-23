@@ -5,7 +5,7 @@ class Article < ActiveRecord::Base
   has_many :special_offers
 
   before_create :set_permalink
-  validates :title, :presence => :true
+  validates :title, presence: true
   permalink :title, :to_param => %w(id permalink)
 
   acts_as_nested_set

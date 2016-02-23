@@ -1,11 +1,11 @@
 source 'http://rubygems.org'
 
-gem 'rails', '4.0.3'
+gem 'rails', '4.2.5.1'
 gem 'pg'
 gem 'sass-rails', '~> 4.0.2'
 gem 'haml-rails'
 gem 'devise'
-gem 'cancan'
+gem 'cancancan'
 gem 'paperclip'
 gem 'carrierwave'
 gem 'mini_magick'
