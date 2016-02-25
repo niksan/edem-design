@@ -10,7 +10,7 @@ set :unicorn_conf,    "/etc/unicorn/#{application}.#{login}.rb"
 set :unicorn_pid,     "/var/run/unicorn/#{user}/#{application}.#{login}.pid"
 set :bundle_dir,      File.join(fetch(:shared_path), 'gems')
 set :linked_dirs,          %w{bin log vendor/bundle public/system public/uploads }
-set :rvm_ruby_string, "2.2.0"
+set :rvm_ruby_string, "2.2.2"
 set :rake,            "rvm use #{rvm_ruby_string} do bundle exec rake" 
 set :bundle_cmd,      "rvm use #{rvm_ruby_string} do bundle"
 set :scm,             :git
