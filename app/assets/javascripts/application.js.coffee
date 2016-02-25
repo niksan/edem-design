@@ -5,6 +5,7 @@
 //= require ../../../vendor/assets/javascripts/isotope.pkgd.min
 //= require_tree .
 //= require ckeditor/init
+//= require ckeditor/config
 //= require gritter
 //= require_self
 
