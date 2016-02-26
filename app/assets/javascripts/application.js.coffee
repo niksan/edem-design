@@ -4,7 +4,6 @@
 //= require_tree ../../../vendor/assets/javascripts/fancybox
 //= require ../../../vendor/assets/javascripts/isotope.pkgd.min
 //= require_tree .
-//= require ckeditor/init
 //= require gritter
 //= require_self
 
