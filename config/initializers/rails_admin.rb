@@ -45,8 +45,6 @@ RailsAdmin.config do |config|
       field :parent, :belongs_to_association
       field :title, :string 
       field :body, :ck_editor
-      field :special_offers, :has_many_association
-      field :children, :has_many_association
       field :published
       field :portfolio, :belongs_to_association
     end
