@@ -1,9 +1,9 @@
 ssh_options[:forward_agent] = true
 set :application,     "edem-design"
-set :deploy_server,   "hydrogen.locum.ru"
+set :deploy_server,   "titanium.locum.ru"
 set :bundle_without,  [:development, :test]
-set :user,            "hosting_niksan"
-set :login,           "niksan"
+set :user,            "hosting_land-edem"
+set :login,           "land-edem"
 set :use_sudo,        false
 set :deploy_to,       "/home/#{user}/projects/#{application}"
 set :unicorn_conf,    "/etc/unicorn/#{application}.#{login}.rb"
@@ -14,7 +14,7 @@ set :rvm_ruby_string, "2.2.2"
 set :rake,            "rvm use #{rvm_ruby_string} do bundle exec rake" 
 set :bundle_cmd,      "rvm use #{rvm_ruby_string} do bundle"
 set :scm,             :git
-set :repository,      "git@github.com:niksan/edem-design.git"
+set :repository,      "https://github.com/niksan/edem-design.git"
 role :web,            deploy_server
 role :app,            deploy_server
 role :db,             deploy_server, :primary => true
